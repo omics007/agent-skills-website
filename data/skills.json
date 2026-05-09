@@ -1,0 +1,3468 @@
+{
+  "lastUpdated": "2026-05-09T14:11:55.328616",
+  "source": "multi-platform",
+  "platforms": [
+    "github",
+    "huggingface",
+    "producthunt",
+    "devto",
+    "medium",
+    "reddit",
+    "stackoverflow",
+    "juejin",
+    "zhihu",
+    "csdn",
+    "weixin",
+    "bilibili",
+    "douyin"
+  ],
+  "categories": [
+    {
+      "id": "development",
+      "name": "开发工具",
+      "icon": "🔍",
+      "count": 141
+    },
+    {
+      "id": "creative",
+      "name": "创意设计",
+      "icon": "🎨",
+      "count": 19
+    },
+    {
+      "id": "ai-research",
+      "name": "AI研究",
+      "icon": "💡",
+      "count": 18
+    },
+    {
+      "id": "productivity",
+      "name": "效率工具",
+      "icon": "📧",
+      "count": 2
+    }
+  ],
+  "skills": [
+    {
+      "id": "bili-116227955497963",
+      "name": "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！",
+      "description": "B站视频教程: 从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1E7wtzaEdq",
+      "installCount": 920740,
+      "rating": 5.0,
+      "author": "马克的技术工作坊",
+      "lastUpdated": "2026-03-14",
+      "platform": "bilibili"
+    },
+    {
+      "id": "bili-116187623069851",
+      "name": "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快速打造自己的",
+      "description": "B站视频教程: 【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快速打造自己的专属智能体，一次性搞懂AI大模型智能体开发，学完薪资翻倍！",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV11NNAz5EKn",
+      "installCount": 398485,
+      "rating": 5.0,
+      "author": "AI-智能体搭建教程",
+      "lastUpdated": "2026-03-07",
+      "platform": "bilibili"
+    },
+    {
+      "id": "bili-116333719127221",
+      "name": "【2026最新】全B站最详细AI Agent开发教程，手把手教你搭建企业级Agent智能体！从入门到",
+      "description": "B站视频教程: 【2026最新】全B站最详细AI Agent开发教程，手把手教你搭建企业级Agent智能体！从入门到实战，学完即就业，带你玩转AI Agent！",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV12kXfBVEer",
+      "installCount": 129386,
+      "rating": 5.0,
+      "author": "Agent开发",
+      "lastUpdated": "2026-04-02",
+      "platform": "bilibili"
+    },
+    {
+      "id": "bili-116446713611501",
+      "name": "【全748集】目前B站最全最细的AI大模型零基础全套教程，2026最新版，包含所有干货！七天就能从小",
+      "description": "B站视频教程: 【全748集】目前B站最全最细的AI大模型零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！学完即就业，带你玩转AI！",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1muoWBXEwv",
+      "installCount": 120173,
+      "rating": 5.0,
+      "author": "Agent智能体搭建-",
+      "lastUpdated": "2026-04-22",
+      "platform": "bilibili"
+    },
+    {
+      "id": "bili-116396684017776",
+      "name": "这绝对是B站讲的最好的Hermes Agent教程，从入门到项目实战彻底讲透，比付费效果强百倍，少走",
+      "description": "B站视频教程: 这绝对是B站讲的最好的Hermes Agent教程，从入门到项目实战彻底讲透，比付费效果强百倍，少走99%弯路！存下吧，很难找全！",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1jRQxBAERc",
+      "installCount": 93721,
+      "rating": 5.0,
+      "author": "AI效率工具",
+      "lastUpdated": "2026-04-13",
+      "platform": "bilibili"
+    },
+    {
+      "id": "bili-116339758860081",
+      "name": "【Java+大模型】Java AI Agent✚Spring AI✚Spring AI Alibab",
+      "description": "B站视频教程: 【Java+大模型】Java AI Agent✚Spring AI✚Spring AI Alibaba Agent Framework整体结构✚Skill！",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1g49KBqE1g",
+      "installCount": 62217,
+      "rating": 5.0,
+      "author": "图灵官方",
+      "lastUpdated": "2026-04-03",
+      "platform": "bilibili"
+    },
+    {
+      "id": "github-1134426800",
+      "name": "Antigravity Awesome Skills",
+      "description": "Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "claude",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+      "installCount": 36913,
+      "rating": 5.0,
+      "author": "sickn33",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "bili-116503638706867",
+      "name": "Hermes Agent零基础、保姆级教程，小白也能轻松玩转",
+      "description": "B站视频教程: Hermes Agent零基础、保姆级教程，小白也能轻松玩转",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV13YRjBTEPb",
+      "installCount": 34571,
+      "rating": 5.0,
+      "author": "iwenwiki",
+      "lastUpdated": "2026-05-02",
+      "platform": "bilibili"
+    },
+    {
+      "id": "github-1156956890",
+      "name": "Zeroclaw",
+      "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀",
+      "icon": "🐙",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "assistant"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/zeroclaw-labs/zeroclaw",
+      "installCount": 31173,
+      "rating": 5.0,
+      "author": "zeroclaw-labs",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1167965563",
+      "name": "Symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/openai/symphony",
+      "installCount": 22846,
+      "rating": 5.0,
+      "author": "openai",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "bili-116538065684466",
+      "name": "Harness 实践：让 Agent 全自动制作知识讲解视频",
+      "description": "B站视频教程: Harness 实践：让 Agent 全自动制作知识讲解视频",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1ypdgBCE9B",
+      "installCount": 20811,
+      "rating": 5.0,
+      "author": "code秘密花园",
+      "lastUpdated": "2026-05-08",
+      "platform": "bilibili"
+    },
+    {
+      "id": "github-1129759677",
+      "name": "Ralph",
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/snarktank/ralph",
+      "installCount": 18777,
+      "rating": 5.0,
+      "author": "snarktank",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1155965274",
+      "name": "Claude Code Game Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "installCount": 17857,
+      "rating": 5.0,
+      "author": "Donchitos",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1177402105",
+      "name": "Hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/heygen-com/hyperframes",
+      "installCount": 16433,
+      "rating": 5.0,
+      "author": "heygen-com",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1164832776",
+      "name": "Edict",
+      "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/cft0808/edict",
+      "installCount": 15671,
+      "rating": 5.0,
+      "author": "cft0808",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "douyin-ai-videos",
+      "name": "抖音AI短视频",
+      "description": "来自抖音的AI Agent短视频教程",
+      "icon": "🎵",
+      "category": "creative",
+      "tags": [
+        "video",
+        "short",
+        "ai"
+      ],
+      "source": "抖音",
+      "sourceUrl": "https://www.douyin.com/",
+      "installCount": 15000,
+      "rating": 4.5,
+      "author": "抖音创作者",
+      "lastUpdated": "2026-05-09",
+      "platform": "douyin"
+    },
+    {
+      "id": "bili-116522076872165",
+      "name": "翻遍整个B站，这绝对是2026讲的最好的AI Agent智能体教程，手把手教你从0基础开始搭建企业级",
+      "description": "B站视频教程: 翻遍整个B站，这绝对是2026讲的最好的AI Agent智能体教程，手把手教你从0基础开始搭建企业级Agent智能体！全程干货无废话，让你少走99%弯路！！",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1RZRyBXEjE",
+      "installCount": 13865,
+      "rating": 4.8865,
+      "author": "AI学习课堂",
+      "lastUpdated": "2026-05-05",
+      "platform": "bilibili"
+    },
+    {
+      "id": "github-1139782619",
+      "name": "Waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/waooAI/waoowaoo",
+      "installCount": 12078,
+      "rating": 5.0,
+      "author": "waooAI",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "bili-116367441334742",
+      "name": "【B站天花板】全网最细最全的Agent应用开发教程|手把手教你搭建企业级智能体，全程干货无废话，小白",
+      "description": "B站视频教程: 【B站天花板】全网最细最全的Agent应用开发教程|手把手教你搭建企业级智能体，全程干货无废话，小白直接上手不踩坑,帮你少走 99% 弯路！ LLM|大模型",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1HxDrB5Em2",
+      "installCount": 11719,
+      "rating": 4.6719,
+      "author": "AI-Agent开发",
+      "lastUpdated": "2026-04-08",
+      "platform": "bilibili"
+    },
+    {
+      "id": "github-1174369519",
+      "name": "Agency Agents Zh",
+      "description": "🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/jnMetaCode/agency-agents-zh",
+      "installCount": 10339,
+      "rating": 5.0,
+      "author": "jnMetaCode",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1177608268",
+      "name": "Auto Claude Code Research In Sleep",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "llm",
+        "claude",
+        "automation",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "installCount": 8557,
+      "rating": 5.0,
+      "author": "wanshuiyin",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "weixin-ai-articles",
+      "name": "微信公众号AI文章",
+      "description": "来自微信公众号的AI Agent技术文章",
+      "icon": "💬",
+      "category": "productivity",
+      "tags": [
+        "article",
+        "ai",
+        "wechat"
+      ],
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "installCount": 8000,
+      "rating": 4.4,
+      "author": "微信公众号",
+      "lastUpdated": "2026-05-09",
+      "platform": "weixin"
+    },
+    {
+      "id": "bili-116526774485748",
+      "name": "翻遍整个B站，这绝对是2026讲的最好的AI Agent开发教程，手把手教你搭建企业级Agent智能",
+      "description": "B站视频教程: 翻遍整个B站，这绝对是2026讲的最好的AI Agent开发教程，手把手教你搭建企业级Agent智能体，少走99%的弯路！",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1JvR4B1EsJ",
+      "installCount": 7668,
+      "rating": 4.2668,
+      "author": "阿里架构师诸葛",
+      "lastUpdated": "2026-05-06",
+      "platform": "bilibili"
+    },
+    {
+      "id": "github-1178493295",
+      "name": "Gsd 2",
+      "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/gsd-build/gsd-2",
+      "installCount": 7284,
+      "rating": 4.9568,
+      "author": "gsd-build",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1156994049",
+      "name": "Agent Orchestrator",
+      "description": " Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/ComposioHQ/agent-orchestrator",
+      "installCount": 6897,
+      "rating": 4.8794,
+      "author": "ComposioHQ",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1166506614",
+      "name": "Anthropic Cybersecurity Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "framework",
+        "anthropic"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "installCount": 6133,
+      "rating": 4.7265999999999995,
+      "author": "mukul975",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1179413000",
+      "name": "Inkos",
+      "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Narcooo/inkos",
+      "installCount": 5913,
+      "rating": 4.6826,
+      "author": "Narcooo",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1129202884",
+      "name": "Claude Code Showcase",
+      "description": "Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "claude",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/ChrisWiles/claude-code-showcase",
+      "installCount": 5879,
+      "rating": 4.6758,
+      "author": "ChrisWiles",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1207091162",
+      "name": "Fireworks Tech Graph",
+      "description": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "installCount": 5770,
+      "rating": 4.654,
+      "author": "yizhiyanhua-ai",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1166129534",
+      "name": "Openshell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/NVIDIA/OpenShell",
+      "installCount": 5651,
+      "rating": 4.6302,
+      "author": "NVIDIA",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "ph-agent-tools",
+      "name": "AI Agent Tools",
+      "description": "Top AI agent tools from ProductHunt",
+      "icon": "🚀",
+      "category": "productivity",
+      "tags": [
+        "agent",
+        "productivity",
+        "ai"
+      ],
+      "source": "ProductHunt",
+      "sourceUrl": "https://www.producthunt.com/topics/artificial-intelligence",
+      "installCount": 5000,
+      "rating": 4.5,
+      "author": "ProductHunt",
+      "lastUpdated": "2026-05-09",
+      "platform": "producthunt"
+    },
+    {
+      "id": "bili-116532411635848",
+      "name": "B站讲的最好的Java AI Agent智能体+Spring AI Alibaba+Openclaw",
+      "description": "B站视频教程: B站讲的最好的Java AI Agent智能体+Spring AI Alibaba+Openclaw+Skill开发实战教程（2026最新版）",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV19adwBeETH",
+      "installCount": 4776,
+      "rating": 3.9776,
+      "author": "图灵学院诸葛",
+      "lastUpdated": "2026-05-07",
+      "platform": "bilibili"
+    },
+    {
+      "id": "github-1156797572",
+      "name": "Mission Control",
+      "description": "Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/builderz-labs/mission-control",
+      "installCount": 4716,
+      "rating": 4.4432,
+      "author": "builderz-labs",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "so-77998568",
+      "name": "langchain : ModuleNotFoundError: No module named &",
+      "description": "Stack Overflow Question: langchain : ModuleNotFoundError: No module named &#39;langchain_community&#39;",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "langchain",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/77998568/langchain-modulenotfounderror-no-module-named-langchain-community",
+      "installCount": 4400,
+      "rating": 3.94,
+      "author": "Nikita Malviya",
+      "lastUpdated": "2024-02-15",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "github-1126841840",
+      "name": "Cli",
+      "description": "📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/entireio/cli",
+      "installCount": 4259,
+      "rating": 4.3518,
+      "author": "entireio",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1131107802",
+      "name": "Claude Code Ultimate Guide",
+      "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "claude",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
+      "installCount": 4249,
+      "rating": 4.3498,
+      "author": "FlorianBruniaux",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1150205470",
+      "name": "Product Manager Skills",
+      "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/deanpeters/Product-Manager-Skills",
+      "installCount": 4120,
+      "rating": 4.324,
+      "author": "deanpeters",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "zhihu-ai-topic",
+      "name": "知乎AI话题精选",
+      "description": "来自知乎社区的AI Agent讨论和资源",
+      "icon": "🔵",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "agent",
+        "讨论"
+      ],
+      "source": "知乎",
+      "sourceUrl": "https://www.zhihu.com/topic/19551275/hot",
+      "installCount": 4000,
+      "rating": 4.3,
+      "author": "知乎社区",
+      "lastUpdated": "2026-05-09",
+      "platform": "zhihu"
+    },
+    {
+      "id": "github-1158449837",
+      "name": "Golutra",
+      "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "automation",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/golutra/golutra",
+      "installCount": 3410,
+      "rating": 4.182,
+      "author": "golutra",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1197656055",
+      "name": "Claude Code",
+      "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton n",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "claude",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/yasasbanukaofficial/claude-code",
+      "installCount": 3087,
+      "rating": 4.1174,
+      "author": "yasasbanukaofficial",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1191520000",
+      "name": "Qiushi Skill",
+      "description": "求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/HughYau/qiushi-skill",
+      "installCount": 3046,
+      "rating": 4.1091999999999995,
+      "author": "HughYau",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "juejin-ai-agent",
+      "name": "掘金AI Agent精选",
+      "description": "来自掘金社区的AI Agent技术文章和项目",
+      "icon": "💎",
+      "category": "development",
+      "tags": [
+        "ai",
+        "agent",
+        "前端"
+      ],
+      "source": "掘金",
+      "sourceUrl": "https://juejin.cn/tag/AI",
+      "installCount": 3000,
+      "rating": 4.5,
+      "author": "掘金社区",
+      "lastUpdated": "2026-05-09",
+      "platform": "juejin"
+    },
+    {
+      "id": "github-1135260262",
+      "name": "Ralphy",
+      "description": "My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "claude"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/michaelshimeles/ralphy",
+      "installCount": 2840,
+      "rating": 4.068,
+      "author": "michaelshimeles",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1165855406",
+      "name": "Gitagent Protocol",
+      "description": "A framework-agnostic, git-native standard for defining AI agents",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/open-gitagent/gitagent-protocol",
+      "installCount": 2766,
+      "rating": 4.0532,
+      "author": "open-gitagent",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1145420469",
+      "name": "Moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "llm",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/moltis-org/moltis",
+      "installCount": 2665,
+      "rating": 4.033,
+      "author": "moltis-org",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1152159038",
+      "name": "Firered Openstoryline",
+      "description": "FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestra",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
+      "installCount": 2578,
+      "rating": 4.0156,
+      "author": "FireRedTeam",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1197262207",
+      "name": "Claude Code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "workflow",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/codeaashu/claude-code",
+      "installCount": 2501,
+      "rating": 4.0001999999999995,
+      "author": "codeaashu",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "csdn-ai-blog",
+      "name": "CSDN AI技术博客",
+      "description": "来自CSDN的AI Agent技术文章和教程",
+      "icon": "🟢",
+      "category": "development",
+      "tags": [
+        "ai",
+        "agent",
+        "教程"
+      ],
+      "source": "CSDN",
+      "sourceUrl": "https://www.csdn.net/nav/ai",
+      "installCount": 2500,
+      "rating": 4.2,
+      "author": "CSDN社区",
+      "lastUpdated": "2026-05-09",
+      "platform": "csdn"
+    },
+    {
+      "id": "github-1147470802",
+      "name": "Pro Workflow",
+      "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "claude",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/rohitg00/pro-workflow",
+      "installCount": 2062,
+      "rating": 3.9124,
+      "author": "rohitg00",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1215974868",
+      "name": "Mercury Agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/cosmicstack-labs/mercury-agent",
+      "installCount": 2045,
+      "rating": 3.909,
+      "author": "cosmicstack-labs",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1164005541",
+      "name": "Vibe Skills",
+      "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgr",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "rag",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
+      "installCount": 2045,
+      "rating": 3.909,
+      "author": "foryourhealth111-pixel",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1146664329",
+      "name": "Mission Control",
+      "description": "The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted v",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "api"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/crshdn/mission-control",
+      "installCount": 2008,
+      "rating": 3.9016,
+      "author": "crshdn",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1155576139",
+      "name": "Rocketride Server",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all f",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "workflow",
+        "sdk"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/rocketride-org/rocketride-server",
+      "installCount": 2005,
+      "rating": 3.901,
+      "author": "rocketride-org",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "so-77789886",
+      "name": "OpenAI API error: &quot;The model `text-davinci-00",
+      "description": "Stack Overflow Question: OpenAI API error: &quot;The model `text-davinci-003` has been deprecated&quot;",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "openai-api",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/77789886/openai-api-error-the-model-text-davinci-003-has-been-deprecated",
+      "installCount": 1900,
+      "rating": 3.69,
+      "author": "Mangoes",
+      "lastUpdated": "2024-01-09",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "github-1187150337",
+      "name": "Awesome Autoresearch",
+      "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/alvinreal/awesome-autoresearch",
+      "installCount": 1796,
+      "rating": 3.8592,
+      "author": "alvinreal",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1147600037",
+      "name": "Thepopebot",
+      "description": "The Pope Bot is an autonomous AI agent that you can configure and build to do just about anything you want, all day, everyday, 24/7.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/stephengpope/thepopebot",
+      "installCount": 1777,
+      "rating": 3.8554,
+      "author": "stephengpope",
+      "lastUpdated": "2026-05-08",
+      "platform": "github"
+    },
+    {
+      "id": "github-1217942969",
+      "name": "Gpt Image 2 Skill",
+      "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "gpt",
+        "openai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/wuyoscar/gpt_image_2_skill",
+      "installCount": 1752,
+      "rating": 3.8504,
+      "author": "wuyoscar",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1146153471",
+      "name": "Openakita",
+      "description": "An open-source AI assistant framework with skills and agent architecture",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "framework",
+        "assistant"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/openakita/openakita",
+      "installCount": 1727,
+      "rating": 3.8454,
+      "author": "openakita",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1129940957",
+      "name": "Headroom",
+      "description": "The Context Optimization Layer for LLM Applications",
+      "icon": "🐙",
+      "category": "ai-research",
+      "tags": [
+        "llm"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/chopratejas/headroom",
+      "installCount": 1699,
+      "rating": 3.8398,
+      "author": "chopratejas",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1228306162",
+      "name": "Deepclaude",
+      "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "claude",
+        "anthropic"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/aattaran/deepclaude",
+      "installCount": 1663,
+      "rating": 3.8326000000000002,
+      "author": "aattaran",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1176335208",
+      "name": "Agi",
+      "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your brow",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/hyperspaceai/agi",
+      "installCount": 1623,
+      "rating": 3.8246,
+      "author": "hyperspaceai",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1205638461",
+      "name": "Dothething",
+      "description": "an autonomous AI agent: you describe the thing, it does the thing.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/fluffypony/dothething",
+      "installCount": 1600,
+      "rating": 3.82,
+      "author": "fluffypony",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "so-79366942",
+      "name": "How to change GitHub Copilot model in IntelliJ?",
+      "description": "Stack Overflow Question: How to change GitHub Copilot model in IntelliJ?",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "openai-api",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/79366942/how-to-change-github-copilot-model-in-intellij",
+      "installCount": 1600,
+      "rating": 3.66,
+      "author": "guy",
+      "lastUpdated": "2025-01-18",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "github-1231135337",
+      "name": "Mirage",
+      "description": "A Unified Virtual Filesystem For AI Agents",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "rag"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/strukto-ai/mirage",
+      "installCount": 1573,
+      "rating": 3.8146,
+      "author": "strukto-ai",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "bili-116542712847127",
+      "name": "【2026最新版】这绝对是B站讲的最好的Hermes Agent教程，从入门到项目实战彻底讲透，比付",
+      "description": "B站视频教程: 【2026最新版】这绝对是B站讲的最好的Hermes Agent教程，从入门到项目实战彻底讲透，比付费效果强百倍，少走99%弯路！存下吧，很难找全！",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1QGRSBfEYb",
+      "installCount": 1508,
+      "rating": 3.6508,
+      "author": "AI大模型教学圈",
+      "lastUpdated": "2026-05-09",
+      "platform": "bilibili"
+    },
+    {
+      "id": "so-77952454",
+      "name": "method in python &#39;Stream_to_file&#39; not work",
+      "description": "Stack Overflow Question: method in python &#39;Stream_to_file&#39; not working",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "openai-api",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/77952454/method-in-python-stream-to-file-not-working",
+      "installCount": 1400,
+      "rating": 3.64,
+      "author": "Rohit Chourey",
+      "lastUpdated": "2024-02-07",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "devto-3601343",
+      "name": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
+      "icon": "📝",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "installCount": 1380,
+      "rating": 4.5,
+      "author": "anchildress1",
+      "lastUpdated": "2026-05-02",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1185430378",
+      "name": "Openomnibot",
+      "description": "Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world || 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 ",
+      "icon": "🐙",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "assistant",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/omnimind-ai/OpenOmniBot",
+      "installCount": 1370,
+      "rating": 3.774,
+      "author": "omnimind-ai",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1183666903",
+      "name": "Goal Driven",
+      "description": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/lidangzzz/goal-driven",
+      "installCount": 1272,
+      "rating": 3.7544,
+      "author": "lidangzzz",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3614671",
+      "name": "Am I a Developer or Just a Prompt Engineer?",
+      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
+      "installCount": 1260,
+      "rating": 4.5,
+      "author": "harsh2644",
+      "lastUpdated": "2026-05-05",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1141706975",
+      "name": "Multi Agent Shogun",
+      "description": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/yohey-w/multi-agent-shogun",
+      "installCount": 1259,
+      "rating": 3.7518000000000002,
+      "author": "yohey-w",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "so-78593700",
+      "name": "langchain_community &amp; langchain packages givin",
+      "description": "Stack Overflow Question: langchain_community &amp; langchain packages giving error: Missing 1 required keyword-only argument: &#39;recursive_guard&#39;",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "langchain",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78593700/langchain-community-langchain-packages-giving-error-missing-1-required-keywor",
+      "installCount": 1200,
+      "rating": 3.62,
+      "author": "Atul",
+      "lastUpdated": "2024-06-07",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-79818917",
+      "name": "Error importing langchain modules: No module named",
+      "description": "Stack Overflow Question: Error importing langchain modules: No module named &#39;langchain.chains&#39;",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "langchain",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/79818917/error-importing-langchain-modules-no-module-named-langchain-chains",
+      "installCount": 1200,
+      "rating": 3.62,
+      "author": "Mateus Lira",
+      "lastUpdated": "2025-11-13",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-78516807",
+      "name": "Ollama - How to inject context or get model to ans",
+      "description": "Stack Overflow Question: Ollama - How to inject context or get model to answer based on context?",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "llm",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78516807/ollama-how-to-inject-context-or-get-model-to-answer-based-on-context",
+      "installCount": 1100,
+      "rating": 3.61,
+      "author": "tone7",
+      "lastUpdated": "2024-05-22",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "github-1143535772",
+      "name": "Burp Ai Agent",
+      "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/six2dez/burp-ai-agent",
+      "installCount": 1092,
+      "rating": 3.7184,
+      "author": "six2dez",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1176557907",
+      "name": "Agentos",
+      "description": "Airymax AgentOS: 200K+ context & 10M memory, 1000h tasks at 99.1% accuracy, 80% token reduction, 5× industry efficiency. Natively compatible with OpenClaw, openJiuwen, LangChain, Claude & OpenAI APIs;",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "langchain",
+        "api"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/SpharxTeam/AgentOS",
+      "installCount": 1077,
+      "rating": 3.7154,
+      "author": "SpharxTeam",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1202549948",
+      "name": "Obsidian Wiki",
+      "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Ar9av/obsidian-wiki",
+      "installCount": 1063,
+      "rating": 3.7126,
+      "author": "Ar9av",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1136616428",
+      "name": "Langalpha",
+      "description": "Claude Code for Finance",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "claude"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/ginlix-ai/LangAlpha",
+      "installCount": 1062,
+      "rating": 3.7124,
+      "author": "ginlix-ai",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1213212865",
+      "name": "Esp Claw",
+      "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/espressif/esp-claw",
+      "installCount": 1060,
+      "rating": 3.712,
+      "author": "espressif",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "bili-116543383929218",
+      "name": "2026年程序员生存指南：不会 AI Agent，工作真的会被替代吗？",
+      "description": "B站视频教程: 2026年程序员生存指南：不会 AI Agent，工作真的会被替代吗？",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1eXRQBgEPV",
+      "installCount": 1052,
+      "rating": 3.6052,
+      "author": "印客学院",
+      "lastUpdated": "2026-05-09",
+      "platform": "bilibili"
+    },
+    {
+      "id": "github-1169880696",
+      "name": "Letsfg",
+      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/LetsFG/LetsFG",
+      "installCount": 1030,
+      "rating": 3.706,
+      "author": "LetsFG",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "bili-116542427698972",
+      "name": "【2026版】AI Agent项目实战视频合集，练完即可就业！涵盖agent开发/agent智能体/",
+      "description": "B站视频教程: 【2026版】AI Agent项目实战视频合集，练完即可就业！涵盖agent开发/agent智能体/agent智能体搭建，全程干货无废话",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1FzRSBGETD",
+      "installCount": 1027,
+      "rating": 3.6027,
+      "author": "大模型A",
+      "lastUpdated": "2026-05-09",
+      "platform": "bilibili"
+    },
+    {
+      "id": "so-79111773",
+      "name": "litellm.BadRequestError: LLM Provider NOT provided",
+      "description": "Stack Overflow Question: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "langchain",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/79111773/litellm-badrequesterror-llm-provider-not-provided-pass-in-the-llm-provider-you",
+      "installCount": 1000,
+      "rating": 3.6,
+      "author": "Akrit Rihal",
+      "lastUpdated": "2024-10-21",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-78404535",
+      "name": "LangChain Python with structured output Ollama fun",
+      "description": "Stack Overflow Question: LangChain Python with structured output Ollama functions",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "langchain",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78404535/langchain-python-with-structured-output-ollama-functions",
+      "installCount": 1000,
+      "rating": 3.6,
+      "author": "Jack Damiani",
+      "lastUpdated": "2024-04-29",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-78080182",
+      "name": "How to add millions of documents to ChromaDB effic",
+      "description": "Stack Overflow Question: How to add millions of documents to ChromaDB efficently",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "langchain",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78080182/how-to-add-millions-of-documents-to-chromadb-efficently",
+      "installCount": 1000,
+      "rating": 3.6,
+      "author": "user23501561",
+      "lastUpdated": "2024-02-29",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-77890911",
+      "name": "OpenAI API error: &quot;The api_key client option ",
+      "description": "Stack Overflow Question: OpenAI API error: &quot;The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY env variable&quot;",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "openai-api",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/77890911/openai-api-error-the-api-key-client-option-must-be-set-either-by-passing-api-k",
+      "installCount": 1000,
+      "rating": 3.6,
+      "author": "SebTheGeek",
+      "lastUpdated": "2024-01-27",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "github-1198155461",
+      "name": "Claude Code Prompts",
+      "description": "Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/repowise-dev/claude-code-prompts",
+      "installCount": 996,
+      "rating": 3.6992,
+      "author": "repowise-dev",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3533863",
+      "name": "The 4 Cognitive Archetypes of Developers Using AI",
+      "description": "Lately, I’ve been reflecting on something:  The question for most developers is no longer \"Are you...",
+      "icon": "📝",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n",
+      "installCount": 990,
+      "rating": 4.5,
+      "author": "javz",
+      "lastUpdated": "2026-05-04",
+      "platform": "devto"
+    },
+    {
+      "id": "so-78105511",
+      "name": "ImportError: cannot import name &#39;Ollama&#39; f",
+      "description": "Stack Overflow Question: ImportError: cannot import name &#39;Ollama&#39; from &#39;llama_index.llms&#39; (unknown location)",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "openai-api",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78105511/importerror-cannot-import-name-ollama-from-llama-index-llms-unknown-locati",
+      "installCount": 900,
+      "rating": 3.59,
+      "author": "sami",
+      "lastUpdated": "2024-03-05",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "github-1128112737",
+      "name": "Awesome Pi Agent",
+      "description": "Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono).",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/qualisero/awesome-pi-agent",
+      "installCount": 844,
+      "rating": 3.6688,
+      "author": "qualisero",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1144764199",
+      "name": "Ai Agents From Zero",
+      "description": " 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化 ",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "langchain",
+        "rag"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/didilili/ai-agents-from-zero",
+      "installCount": 828,
+      "rating": 3.6656,
+      "author": "didilili",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "so-79903575",
+      "name": "Resolving Concurrency Bottlenecks in LangChain&#39",
+      "description": "Stack Overflow Question: Resolving Concurrency Bottlenecks in LangChain&#39;s RunnableParallel with ChromaDB PersistentClient",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "langchain",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/79903575/resolving-concurrency-bottlenecks-in-langchains-runnableparallel-with-chromadb",
+      "installCount": 800,
+      "rating": 3.58,
+      "author": "grace h",
+      "lastUpdated": "2026-03-09",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-79110089",
+      "name": "Llama3.2 fails to respond to simple text inputs wh",
+      "description": "Stack Overflow Question: Llama3.2 fails to respond to simple text inputs when bounded with tool calling on LangGraph",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "langchain",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/79110089/llama3-2-fails-to-respond-to-simple-text-inputs-when-bounded-with-tool-calling-o",
+      "installCount": 800,
+      "rating": 3.58,
+      "author": "Neha",
+      "lastUpdated": "2024-10-21",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-79730876",
+      "name": "GPT-OSS does not return valid structured output wi",
+      "description": "Stack Overflow Question: GPT-OSS does not return valid structured output with Langchain",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "langchain",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/79730876/gpt-oss-does-not-return-valid-structured-output-with-langchain",
+      "installCount": 800,
+      "rating": 3.58,
+      "author": "Sankalp Dhupar",
+      "lastUpdated": "2025-08-09",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-78122648",
+      "name": "How do I get a list of all available OpenAI models",
+      "description": "Stack Overflow Question: How do I get a list of all available OpenAI models?",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "openai-api",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78122648/how-do-i-get-a-list-of-all-available-openai-models",
+      "installCount": 800,
+      "rating": 3.58,
+      "author": "Gerry",
+      "lastUpdated": "2024-03-07",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-79404571",
+      "name": "Why am I getting &quot;model_not_found&quot; error",
+      "description": "Stack Overflow Question: Why am I getting &quot;model_not_found&quot; error when using OpenAI&#39;s o3-mini model?",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "openai-api",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/79404571/why-am-i-getting-model-not-found-error-when-using-openais-o3-mini-model",
+      "installCount": 800,
+      "rating": 3.58,
+      "author": "Rahul Diggi",
+      "lastUpdated": "2025-02-01",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-77854885",
+      "name": "OpenAI API: Can I access my custom ChatGPT via API",
+      "description": "Stack Overflow Question: OpenAI API: Can I access my custom ChatGPT via API?",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "openai-api",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/77854885/openai-api-can-i-access-my-custom-chatgpt-via-api",
+      "installCount": 800,
+      "rating": 3.58,
+      "author": "user2779311",
+      "lastUpdated": "2024-01-21",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-78495286",
+      "name": "How can i Get a JSON structure response from the g",
+      "description": "Stack Overflow Question: How can i Get a JSON structure response from the google gemini-pro-vision",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "llm",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78495286/how-can-i-get-a-json-structure-response-from-the-google-gemini-pro-vision",
+      "installCount": 800,
+      "rating": 3.58,
+      "author": "hassaan hameed",
+      "lastUpdated": "2024-05-17",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "github-1148062975",
+      "name": "Clawe",
+      "description": "Multi-agent coordination system: think Trello for OpenClaw agents. ",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/getclawe/clawe",
+      "installCount": 721,
+      "rating": 3.6442,
+      "author": "getclawe",
+      "lastUpdated": "2026-05-08",
+      "platform": "github"
+    },
+    {
+      "id": "github-1189465288",
+      "name": "Swapper Toolkit",
+      "description": "DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent f",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "gpt",
+        "claude",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/swapperfinance/swapper-toolkit",
+      "installCount": 718,
+      "rating": 3.6436,
+      "author": "swapperfinance",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1187868068",
+      "name": "Spec Driven Develop",
+      "description": "A cross-platform AI agent skill that turns \"rewrite this in Rust\" or \"migrate to microservices\" into a disciplined, document-driven workflow — analyze, decompose, track, execute. One SKILL.md, no fram",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "workflow",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/zhu1090093659/spec_driven_develop",
+      "installCount": 715,
+      "rating": 3.643,
+      "author": "zhu1090093659",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3629085",
+      "name": "Congrats to the OpenClaw Challenge Winners!",
+      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
+      "installCount": 700,
+      "rating": 4.5,
+      "author": "jess",
+      "lastUpdated": "2026-05-07",
+      "platform": "devto"
+    },
+    {
+      "id": "so-79807773",
+      "name": "Using create_retrieval_chain due to RetrievalQA de",
+      "description": "Stack Overflow Question: Using create_retrieval_chain due to RetrievalQA deprecation",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "langchain",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/79807773/using-create-retrieval-chain-due-to-retrievalqa-deprecation",
+      "installCount": 700,
+      "rating": 3.57,
+      "author": "Saad Cherkaoui Ikbal",
+      "lastUpdated": "2025-11-03",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-78028402",
+      "name": "ModuleNotFoundError for &#39;llama_index.vector_st",
+      "description": "Stack Overflow Question: ModuleNotFoundError for &#39;llama_index.vector_stores&#39; in Python Project",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "llm",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78028402/modulenotfounderror-for-llama-index-vector-stores-in-python-project",
+      "installCount": 700,
+      "rating": 3.57,
+      "author": "Raoof Naushad",
+      "lastUpdated": "2024-02-20",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-78010681",
+      "name": "Implementing System Prompts in Gemini Pro for Chat",
+      "description": "Stack Overflow Question: Implementing System Prompts in Gemini Pro for Chatbot Creation",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "llm",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78010681/implementing-system-prompts-in-gemini-pro-for-chatbot-creation",
+      "installCount": 700,
+      "rating": 3.57,
+      "author": "user60108",
+      "lastUpdated": "2024-02-17",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-77872335",
+      "name": "ModuleNotFoundError: No module named &#39;langchai",
+      "description": "Stack Overflow Question: ModuleNotFoundError: No module named &#39;langchain_experimental&#39;",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "llm",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/77872335/modulenotfounderror-no-module-named-langchain-experimental",
+      "installCount": 700,
+      "rating": 3.57,
+      "author": "Farooq Zaman",
+      "lastUpdated": "2024-01-24",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-78068285",
+      "name": "Why doesn&#39;t Ollama use MORE RAM?",
+      "description": "Stack Overflow Question: Why doesn&#39;t Ollama use MORE RAM?",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "llm",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78068285/why-doesnt-ollama-use-more-ram",
+      "installCount": 700,
+      "rating": 3.57,
+      "author": "MattBun",
+      "lastUpdated": "2024-02-27",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "github-1152019564",
+      "name": "Microclaw",
+      "description": "🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "assistant"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/microclaw/microclaw",
+      "installCount": 691,
+      "rating": 3.6382,
+      "author": "microclaw",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1164540365",
+      "name": "Claude Forge",
+      "description": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/sangrokjung/claude-forge",
+      "installCount": 689,
+      "rating": 3.6378,
+      "author": "sangrokjung",
+      "lastUpdated": "2026-05-08",
+      "platform": "github"
+    },
+    {
+      "id": "github-1175263852",
+      "name": "Awesome Ai Agents 2026",
+      "description": "🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "framework",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
+      "installCount": 647,
+      "rating": 3.6294,
+      "author": "caramaschiHG",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1225834084",
+      "name": "Openmonoagent.Ai",
+      "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and in",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+      "installCount": 639,
+      "rating": 3.6278,
+      "author": "StartupHakk",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1173503298",
+      "name": "Loong",
+      "description": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/eastreams/loong",
+      "installCount": 637,
+      "rating": 3.6274,
+      "author": "eastreams",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1159653516",
+      "name": "Overture",
+      "description": "Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowcha",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/SixHq/Overture",
+      "installCount": 620,
+      "rating": 3.624,
+      "author": "SixHq",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "so-79241252",
+      "name": "Pydantic wrapper error while invoking openai clien",
+      "description": "Stack Overflow Question: Pydantic wrapper error while invoking openai client on streamlit. Got an unexpected keyword argument &#39;proxies&#39;",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "openai-api",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/79241252/pydantic-wrapper-error-while-invoking-openai-client-on-streamlit-got-an-unexpec",
+      "installCount": 600,
+      "rating": 3.56,
+      "author": "gogr",
+      "lastUpdated": "2024-12-01",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-78356777",
+      "name": "What does &quot;I&quot; in the section &quot;_IQ&q",
+      "description": "Stack Overflow Question: What does &quot;I&quot; in the section &quot;_IQ&quot; and &quot;_M&quot; mean in this name &quot;Meta-Llama-3-8B-Instruct-IQ3_M.gguf&quot;?",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "llm",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78356777/what-does-i-in-the-section-iq-and-m-mean-in-this-name-meta-llama-3-8b-i",
+      "installCount": 600,
+      "rating": 3.56,
+      "author": "Franva",
+      "lastUpdated": "2024-04-20",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "so-78437376",
+      "name": "run `!ollama run llama3` in colab raise err &quot;",
+      "description": "Stack Overflow Question: run `!ollama run llama3` in colab raise err &quot;Error: could not connect to ollama app, is it running?&quot;",
+      "icon": "📚",
+      "category": "development",
+      "tags": [
+        "llm",
+        "qa",
+        "development"
+      ],
+      "source": "Stack Overflow",
+      "sourceUrl": "https://stackoverflow.com/questions/78437376/run-ollama-run-llama3-in-colab-raise-err-error-could-not-connect-to-ollama",
+      "installCount": 600,
+      "rating": 3.56,
+      "author": "chikadance",
+      "lastUpdated": "2024-05-06",
+      "platform": "stackoverflow"
+    },
+    {
+      "id": "github-1174238266",
+      "name": "Ai Rules",
+      "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries,",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/fjb040911/ai-rules",
+      "installCount": 598,
+      "rating": 3.6196,
+      "author": "fjb040911",
+      "lastUpdated": "2026-05-08",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3616786",
+      "name": "What Even Is AI? (I Took a Break & Had to Relearn ",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "icon": "📝",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "installCount": 580,
+      "rating": 4.5,
+      "author": "rohini_gaonkar",
+      "lastUpdated": "2026-05-05",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1168586339",
+      "name": "Openclaw Office",
+      "description": "OpenClaw Office is the visual monitoring and management frontend for the  OpenClaw Multi-Agent system. It connects to the OpenClaw Gateway via WebSocket to visualize Agent collaboration as a \"digital ",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/WW-AI-Lab/openclaw-office",
+      "installCount": 574,
+      "rating": 3.6148,
+      "author": "WW-AI-Lab",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1168055015",
+      "name": "Altimate Code",
+      "description": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/AltimateAI/altimate-code",
+      "installCount": 572,
+      "rating": 3.6144,
+      "author": "AltimateAI",
+      "lastUpdated": "2026-05-07",
+      "platform": "github"
+    },
+    {
+      "id": "github-1161379409",
+      "name": "Countbot",
+      "description": "更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Telegram/deepseek-v4。",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/countbot-ai/CountBot",
+      "installCount": 565,
+      "rating": 3.613,
+      "author": "countbot-ai",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3617519",
+      "name": "Build Your Own AI Butler - A Scheduled Agent That ",
+      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
+      "installCount": 560,
+      "rating": 4.5,
+      "author": "erikch",
+      "lastUpdated": "2026-05-06",
+      "platform": "devto"
+    },
+    {
+      "id": "devto-3619287",
+      "name": "I Programmed an AI in 6502 Assembly - It Worked",
+      "description": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
+      "icon": "📝",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
+      "installCount": 550,
+      "rating": 4.5,
+      "author": "newellpaul",
+      "lastUpdated": "2026-05-06",
+      "platform": "devto"
+    },
+    {
+      "id": "devto-3603637",
+      "name": "🫡We'll Support You with All Our Might (AI Avatar v",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab",
+      "installCount": 520,
+      "rating": 4.5,
+      "author": "webdeveloperhyper",
+      "lastUpdated": "2026-05-06",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1191326746",
+      "name": "Audit Harness",
+      "description": "Three-layer audit enforcement framework for AI agents — hooks, skills, context recovery, and audit-driven daily reports",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/RickyTong1/audit-harness",
+      "installCount": 505,
+      "rating": 3.601,
+      "author": "RickyTong1",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3605688",
+      "name": "I Built a Mobile App in 3 Days. The Hard Part Was ",
+      "description": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
+      "icon": "📝",
+      "category": "creative",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
+      "installCount": 480,
+      "rating": 4.5,
+      "author": "juandastic",
+      "lastUpdated": "2026-05-04",
+      "platform": "devto"
+    },
+    {
+      "id": "devto-3615670",
+      "name": "The Next Casualty of the GenAI Revolution",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
+      "icon": "📝",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "installCount": 480,
+      "rating": 4.5,
+      "author": "maishsk",
+      "lastUpdated": "2026-05-05",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1132275655",
+      "name": "Cordum",
+      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "langchain",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/cordum-io/cordum",
+      "installCount": 473,
+      "rating": 3.5946,
+      "author": "cordum-io",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1161242607",
+      "name": "Swarmclaw",
+      "description": "Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, ",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "gpt",
+        "claude"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/swarmclawai/swarmclaw",
+      "installCount": 472,
+      "rating": 3.5944,
+      "author": "swarmclawai",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1203380576",
+      "name": "Deepzero",
+      "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively usin",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/416rehman/DeepZero",
+      "installCount": 408,
+      "rating": 3.5816,
+      "author": "416rehman",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3604041",
+      "name": "Migrating from Astro 5 to Astro 6: A Real-World Br",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "installCount": 400,
+      "rating": 4.5,
+      "author": "harshil1712",
+      "lastUpdated": "2026-05-03",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1157936017",
+      "name": "Masfactory",
+      "description": "A Graph-Centric Framework for Orchestrating Multi-Agent Systems with Vibe Graphing.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/BUPT-GAMMA/MASFactory",
+      "installCount": 387,
+      "rating": 3.5774,
+      "author": "BUPT-GAMMA",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3610125",
+      "name": "VR Coding for the AI Coding Era - Monitoring 5 AI ",
+      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
+      "installCount": 380,
+      "rating": 4.5,
+      "author": "samchon",
+      "lastUpdated": "2026-05-04",
+      "platform": "devto"
+    },
+    {
+      "id": "devto-3510931",
+      "name": "AI vs Non-AI: Building the Same Project Twice",
+      "description": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "icon": "📝",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
+      "installCount": 380,
+      "rating": 4.5,
+      "author": "nandofm",
+      "lastUpdated": "2026-05-06",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1145350046",
+      "name": "Zen Ai Pentest",
+      "description": "🛡⚔️AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting🛡⚔️",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "framework"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/SHAdd0WTAka/Zen-Ai-Pentest",
+      "installCount": 364,
+      "rating": 3.5728,
+      "author": "SHAdd0WTAka",
+      "lastUpdated": "2026-05-08",
+      "platform": "github"
+    },
+    {
+      "id": "github-1133647197",
+      "name": "Agents",
+      "description": "AI agent tooling for data engineering workflows.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "workflow",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/astronomer/agents",
+      "installCount": 361,
+      "rating": 3.5722,
+      "author": "astronomer",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1172540122",
+      "name": "Gitagent",
+      "description": "A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "framework",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/open-gitagent/gitagent",
+      "installCount": 356,
+      "rating": 3.5712,
+      "author": "open-gitagent",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1172197625",
+      "name": "Aegis",
+      "description": "Runtime policy enforcement for AI agents. Cryptographic audit trail, human-in-the-loop approvals, kill switch. Zero code changes.                                                                       ",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Justin0504/Aegis",
+      "installCount": 352,
+      "rating": 3.5704,
+      "author": "Justin0504",
+      "lastUpdated": "2026-05-07",
+      "platform": "github"
+    },
+    {
+      "id": "github-1160158798",
+      "name": "Orchestrator Supaconductor",
+      "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "claude"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Ibrahim-3d/orchestrator-supaconductor",
+      "installCount": 348,
+      "rating": 3.5696,
+      "author": "Ibrahim-3d",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1208786358",
+      "name": "Harnessclaw Engine",
+      "description": "An LLM programming assistant engine built with Go, supporting WebSocket, multi-turn dialogues, tool calling, permission control, and skill extension.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "llm",
+        "assistant",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/harnessclaw/harnessclaw-engine",
+      "installCount": 338,
+      "rating": 3.5676,
+      "author": "harnessclaw",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1193465306",
+      "name": "Designing Real World Ai Agents Workshop",
+      "description": "Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "workflow"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop",
+      "installCount": 338,
+      "rating": 3.5676,
+      "author": "iusztinpaul",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1188907600",
+      "name": "The Pair",
+      "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/timwuhaotian/the-pair",
+      "installCount": 336,
+      "rating": 3.5672,
+      "author": "timwuhaotian",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1152277824",
+      "name": "Mindpocket",
+      "description": "Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/jihe520/mindpocket",
+      "installCount": 323,
+      "rating": 3.5646,
+      "author": "jihe520",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1222413951",
+      "name": "Recursivemas",
+      "description": "Offical Implementation for \"Recursive Multi-Agent Systems\"",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/RecursiveMAS/RecursiveMAS",
+      "installCount": 317,
+      "rating": 3.5634,
+      "author": "RecursiveMAS",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3608799",
+      "name": "Managing 150+ AI Agent Skills at Scale — What Brok",
+      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "installCount": 310,
+      "rating": 4.5,
+      "author": "vystartasv",
+      "lastUpdated": "2026-05-04",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1199857443",
+      "name": "Octopoda Os",
+      "description": "The open-source memory operating system for AI agents. Persistent memory, semantic search, loop detection, agent messaging, crash recovery, and real-time observability.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/RyjoxTechnologies/Octopoda-OS",
+      "installCount": 305,
+      "rating": 3.561,
+      "author": "RyjoxTechnologies",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1212721342",
+      "name": "Invincat",
+      "description": "A native Python agent CLI built on DeepAgents CLI, featuring an independent memory Agent that captures learnings after each task and delivers efficient AI coding assistance through hierarchical memory",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/dog-qiuqiu/invincat",
+      "installCount": 304,
+      "rating": 3.5608,
+      "author": "dog-qiuqiu",
+      "lastUpdated": "2026-05-08",
+      "platform": "github"
+    },
+    {
+      "id": "github-1231025761",
+      "name": "Tq Trading Agent",
+      "description": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "api",
+        "openai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/TQ-trade-agent/tq-trading-agent",
+      "installCount": 299,
+      "rating": 3.5598,
+      "author": "TQ-trade-agent",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1169145602",
+      "name": "Jina Cli",
+      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "api",
+        "tool"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/geekjourneyx/jina-cli",
+      "installCount": 294,
+      "rating": 3.5588,
+      "author": "geekjourneyx",
+      "lastUpdated": "2026-05-05",
+      "platform": "github"
+    },
+    {
+      "id": "github-1128599035",
+      "name": "Openclaw.Ai",
+      "description": "Website of openclaw.ai",
+      "icon": "🐙",
+      "category": "ai-research",
+      "tags": [
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/openclaw/openclaw.ai",
+      "installCount": 277,
+      "rating": 3.5554,
+      "author": "openclaw",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3623932",
+      "name": "I built a 200 line AI router in TypeScript. My mon",
+      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
+      "icon": "📝",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
+      "installCount": 250,
+      "rating": 4.5,
+      "author": "thegdsks",
+      "lastUpdated": "2026-05-07",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1202194964",
+      "name": "Multi Agent Ecommerce System",
+      "description": "多Agent电商推荐与营销系统 (Python/Java/Go)",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/bcefghj/multi-agent-ecommerce-system",
+      "installCount": 233,
+      "rating": 3.5466,
+      "author": "bcefghj",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3622503",
+      "name": "Vibe Coding Lessons Nobody Talks About",
+      "description": "I love vibe coding and whenever I get bored, I vibe-code some websites for myself or for Dev...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/konark_13/vibe-coding-lessons-nobody-talks-about-44k9",
+      "installCount": 230,
+      "rating": 4.5,
+      "author": "konark_13",
+      "lastUpdated": "2026-05-06",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1179478740",
+      "name": "Clawswarm",
+      "description": "🔥 Open-source multi-agent orchestration system for OpenClaw, enabling swarm intelligence via unified group chat.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/1Panel-dev/ClawSwarm",
+      "installCount": 219,
+      "rating": 3.5438,
+      "author": "1Panel-dev",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "devto-3597101",
+      "name": "Deploying a Multi-Agent System with Terraform and ",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "installCount": 200,
+      "rating": 4.5,
+      "author": "shirmeirlador",
+      "lastUpdated": "2026-05-07",
+      "platform": "devto"
+    },
+    {
+      "id": "devto-3613934",
+      "name": "[GCP Practice][BwAI] AI-Powered Development: Quick",
+      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
+      "installCount": 200,
+      "rating": 4.5,
+      "author": "evanlin",
+      "lastUpdated": "2026-05-07",
+      "platform": "devto"
+    },
+    {
+      "id": "devto-3622795",
+      "name": "Designing a team of agents",
+      "description": "I continue to experiment with AI in the context of software engineering. I'm fortunate that my team...",
+      "icon": "📝",
+      "category": "development",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/nfrankel/designing-a-team-of-agents-j1b",
+      "installCount": 180,
+      "rating": 4.5,
+      "author": "nfrankel",
+      "lastUpdated": "2026-05-07",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1195477175",
+      "name": "Xhs Content Agent",
+      "description": "这是我开发的一个基于大模型的小红书内容运营智能 Agent 系统。 该系统可以实现从数据采集到内容生成，再到自动发布的完整流程，主要功能包括： 使用 Playwright 爬取小红书热门内容 分析爆款规律（关键词、标签、标题结构） 基于分析结果自动生成选题 使用大模型生成完整文案（标题、正文、标签、互动语） 调用图像模型生成配图 支持通过 API 或 MCP 一键发布内容 技术栈包括： FastA",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "gpt",
+        "langchain",
+        "api"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/hl897tech/xhs_content_agent",
+      "installCount": 176,
+      "rating": 3.5352,
+      "author": "hl897tech",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1179659010",
+      "name": "Openclaw Guide",
+      "description": "开源OpenClaw中文文档站，OpenClaw中文指南，支持小龙虾 AI 智能体安装部署、消息渠道接入、Agent 架构、Skills 技能配置、模型提供商、CLI 命令参考、网关运维、安全沙箱等全方位文档。覆盖 WhatsApp、Telegram、Discord、飞书、钉钉、企业微信等 20+ 聊天平台，OpenAI、Anthropic、Ollama、通义千问等 30+ LLM 提供商，Doc",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "openai",
+        "anthropic"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/liyupi/openclaw-guide",
+      "installCount": 168,
+      "rating": 3.5336,
+      "author": "liyupi",
+      "lastUpdated": "2026-05-08",
+      "platform": "github"
+    },
+    {
+      "id": "github-1186834727",
+      "name": "Quantgpt",
+      "description": "Agent-driven alpha factory — LLM autonomously designs, backtests, and submits factors to WorldQuant BRAIN",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "gpt"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Miasyster/QuantGPT",
+      "installCount": 164,
+      "rating": 3.5328,
+      "author": "Miasyster",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1228342438",
+      "name": "Character Animation Creator Skill",
+      "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "gpt"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/tachikomared/character-animation-creator-skill",
+      "installCount": 162,
+      "rating": 3.5324,
+      "author": "tachikomared",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1147949976",
+      "name": "Topsha",
+      "description": "Local Topsha 🐧 AI Agent for simple PC tasks - focused on local LLM (GPT-OSS, Qwen, GLM)",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "llm",
+        "gpt"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/vakovalskii/topsha",
+      "installCount": 147,
+      "rating": 3.5294,
+      "author": "vakovalskii",
+      "lastUpdated": "2026-04-27",
+      "platform": "github"
+    },
+    {
+      "id": "github-1172631676",
+      "name": "Teamclaw",
+      "description": "Desktop AI Team — multi-assistant orchestration, IM bot integration, scheduled automation, memory & knowledge management",
+      "icon": "🐙",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "automation",
+        "assistant",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/zhangdszq/teamclaw",
+      "installCount": 136,
+      "rating": 3.5272,
+      "author": "zhangdszq",
+      "lastUpdated": "2026-04-14",
+      "platform": "github"
+    },
+    {
+      "id": "bili-116543853697965",
+      "name": "这可能是2026年B站唯一将Agent Skills讲明白的教程，手把手带你从入门到开发Agent智",
+      "description": "B站视频教程: 这可能是2026年B站唯一将Agent Skills讲明白的教程，手把手带你从入门到开发Agent智能体实战，全程干货，让你少走99%的弯路！",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1RuRQBzEoG",
+      "installCount": 126,
+      "rating": 3.5126,
+      "author": "大模型官方讲堂",
+      "lastUpdated": "2026-05-09",
+      "platform": "bilibili"
+    },
+    {
+      "id": "github-1220498389",
+      "name": "Shots",
+      "description": "Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "gpt",
+        "claude"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/hypersocialinc/shots",
+      "installCount": 120,
+      "rating": 3.524,
+      "author": "hypersocialinc",
+      "lastUpdated": "2026-05-09",
+      "platform": "github"
+    },
+    {
+      "id": "github-1155531826",
+      "name": "Acornix",
+      "description": "Vibe coding on your mobile phone. A modular, self-evolving AI-powered system for Termux in your phone, designed to control the device and automate complex tasks, create apps in seconds. If you can ima",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/gonzaroman/acornix",
+      "installCount": 117,
+      "rating": 3.5234,
+      "author": "gonzaroman",
+      "lastUpdated": "2026-05-07",
+      "platform": "github"
+    },
+    {
+      "id": "bili-116543132277706",
+      "name": "2026 最新 AI Agent 智能体零基础保姆级搭建教程，8 步手把手全程教学，专为 AI 入门",
+      "description": "B站视频教程: 2026 最新 AI Agent 智能体零基础保姆级搭建教程，8 步手把手全程教学，专为 AI 入门小白打造，解决不懂原理、不会配置、搭建失败等痛点。",
+      "icon": "📺",
+      "category": "creative",
+      "tags": [
+        "video",
+        "tutorial",
+        "ai"
+      ],
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1ByRQB1EWW",
+      "installCount": 112,
+      "rating": 3.5112,
+      "author": "星野小邮差",
+      "lastUpdated": "2026-05-09",
+      "platform": "bilibili"
+    },
+    {
+      "id": "devto-3625907",
+      "name": "The Local Model That Doesn't Sleep: Gemma 4 + MTP ",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
+      "icon": "📝",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "tutorial",
+        "development"
+      ],
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
+      "installCount": 110,
+      "rating": 4.5,
+      "author": "ertugrul_demir",
+      "lastUpdated": "2026-05-08",
+      "platform": "devto"
+    },
+    {
+      "id": "github-1190117234",
+      "name": "Agentic Chatops",
+      "description": "3-tier agentic ChatOps (n8n + GPT-4o + Claude Code) implementing all 21 patterns from \"Agentic Design Patterns\" — solo operator managing 137 devices",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "gpt",
+        "claude"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/papadopouloskyriakos/agentic-chatops",
+      "installCount": 102,
+      "rating": 3.5204,
+      "author": "papadopouloskyriakos",
+      "lastUpdated": "2026-05-06",
+      "platform": "github"
+    },
+    {
+      "id": "github-1135038596",
+      "name": "Agenthub",
+      "description": "AgentHub is the LLM API Hub for the Agent era, built for high-precision autonomous agents. (GPT-5.5/Claude 4.6/Gemini 3.1)",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "llm",
+        "gpt",
+        "claude",
+        "api"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Prism-Shadow/AgentHub",
+      "installCount": 87,
+      "rating": 3.5174,
+      "author": "Prism-Shadow",
+      "lastUpdated": "2026-05-06",
+      "platform": "github"
+    },
+    {
+      "id": "github-1159573919",
+      "name": "Manbot",
+      "description": "🧬 ManBot — Multi-process AI platform with type-safe IPC and capability graph execution",
+      "icon": "🐙",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/larchanka/manbot",
+      "installCount": 68,
+      "rating": 3.5136,
+      "author": "larchanka",
+      "lastUpdated": "2026-04-20",
+      "platform": "github"
+    },
+    {
+      "id": "github-1145351240",
+      "name": "Marketbot",
+      "description": "MarketBot is a finance-customized version of openclaw, built as a dedicated AI agent for market intelligence, trading analysis, and decision support.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/EthanAlgoX/MarketBot",
+      "installCount": 61,
+      "rating": 3.5122,
+      "author": "EthanAlgoX",
+      "lastUpdated": "2026-05-02",
+      "platform": "github"
+    },
+    {
+      "id": "github-1161440315",
+      "name": "Nanobot Android",
+      "description": "Nanobot is a personal AI assistant inspired by OpenClaw. It delivers core agent functionality in just ~4,000 lines of code—99% smaller than alternatives, making it perfect for mobile devices.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "assistant",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/AbuZar-Ansarii/NanoBot-Android",
+      "installCount": 31,
+      "rating": 3.5062,
+      "author": "AbuZar-Ansarii",
+      "lastUpdated": "2026-04-29",
+      "platform": "github"
+    },
+    {
+      "id": "github-1152414066",
+      "name": "Small Ai Agent",
+      "description": "A powerful, modular, and self-hosted AI assistant that combines website monitoring, ERP integration, system health checks, web search, and personal organization into a single Telegram bot and Web Inte",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "assistant",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/tysonchamp/Small-AI-Agent",
+      "installCount": 27,
+      "rating": 3.5054,
+      "author": "tysonchamp",
+      "lastUpdated": "2026-05-04",
+      "platform": "github"
+    },
+    {
+      "id": "github-1148070668",
+      "name": "Flashclaw",
+      "description": "⚡ Lightning-fast personal AI assistant with modular plugin architecture, Feishu integration, scheduled tasks & persistent memory",
+      "icon": "🐙",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "assistant"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/GuLu9527/flashclaw",
+      "installCount": 27,
+      "rating": 3.5054,
+      "author": "GuLu9527",
+      "lastUpdated": "2026-04-20",
+      "platform": "github"
+    },
+    {
+      "id": "github-1160553237",
+      "name": "Pickle Bot",
+      "description": "Your own AI assistant, speak like a cat.",
+      "icon": "🐙",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "assistant",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/czl9707/pickle-bot",
+      "installCount": 24,
+      "rating": 3.5048,
+      "author": "czl9707",
+      "lastUpdated": "2026-05-08",
+      "platform": "github"
+    },
+    {
+      "id": "github-1175293527",
+      "name": "Opencode Qq Bot",
+      "description": "QQ Bot for OpenCode AI - chat with AI coding assistant via QQ",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "ai",
+        "assistant",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/gbwssve/opencode-qq-bot",
+      "installCount": 21,
+      "rating": 3.5042,
+      "author": "gbwssve",
+      "lastUpdated": "2026-05-02",
+      "platform": "github"
+    },
+    {
+      "id": "github-1195066764",
+      "name": "Frank Bot",
+      "description": "Frank Bot — RAG-powered AI assistant for any business. Built on ChromaDB + Claude. Drop in your docs, ask Frank anything.",
+      "icon": "🐙",
+      "category": "ai-research",
+      "tags": [
+        "ai",
+        "claude",
+        "rag",
+        "assistant",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/LevelUpBM/frank-bot",
+      "installCount": 17,
+      "rating": 3.5034,
+      "author": "LevelUpBM",
+      "lastUpdated": "2026-04-12",
+      "platform": "github"
+    },
+    {
+      "id": "github-1163541835",
+      "name": "Limebot Os",
+      "description": "LimeBot Open Source a self-hosted, agentic AI assistant with multi-channel support, persistent memory, and a real-time web dashboard.",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "agent",
+        "ai",
+        "assistant",
+        "bot"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Ethereal-Lemons/LimeBot-OS",
+      "installCount": 16,
+      "rating": 3.5032,
+      "author": "Ethereal-Lemons",
+      "lastUpdated": "2026-05-07",
+      "platform": "github"
+    },
+    {
+      "id": "github-1168580032",
+      "name": "Mrstack",
+      "description": "Run Claude Code from Telegram — AI dev partner that works 24/7, even when terminal is closed. pip install mrstack",
+      "icon": "🐙",
+      "category": "development",
+      "tags": [
+        "ai",
+        "claude"
+      ],
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/TheStack-ai/mrstack",
+      "installCount": 15,
+      "rating": 3.503,
+      "author": "TheStack-ai",
+      "lastUpdated": "2026-04-28",
+      "platform": "github"
+    }
+  ],
+  "totalCount": 180
+}

@@ -1,0 +1,1967 @@
+{
+  "lastUpdated": "2026-05-09T14:12:45.157950",
+  "source": "multi-platform",
+  "tutorials": [
+    {
+      "id": "gh-tut-793375104",
+      "title": "Awesome Llm Apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo",
+      "publishDate": "2024-04-29",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1000362065",
+      "title": "Awesome Copilot",
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/github/awesome-copilot",
+      "author": "github",
+      "publishDate": "2025-06-11",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-655459367",
+      "title": "Awesome Ai Agents",
+      "description": "A list of AI autonomous agents",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/e2b-dev/awesome-ai-agents",
+      "author": "e2b-dev",
+      "publishDate": "2023-06-19",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-980205160",
+      "title": "Awesome N8N Templates",
+      "description": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/enescingoz/awesome-n8n-templates",
+      "author": "enescingoz",
+      "publishDate": "2025-05-08",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1025381911",
+      "title": "Memori",
+      "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/MemoriLabs/Memori",
+      "author": "MemoriLabs",
+      "publishDate": "2025-07-24",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-933701586",
+      "title": "Awesome Ai Apps",
+      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Arindam200/awesome-ai-apps",
+      "author": "Arindam200",
+      "publishDate": "2025-02-16",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-788768107",
+      "title": "Awesome Llm Resources",
+      "description": "🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources. ",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/WangRongsheng/awesome-LLM-resources",
+      "author": "WangRongsheng",
+      "publishDate": "2024-04-19",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1061458721",
+      "title": "Awesome Opencode",
+      "description": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/awesome-opencode/awesome-opencode",
+      "author": "awesome-opencode",
+      "publishDate": "2025-09-22",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-943460007",
+      "title": "Awesome Ai System Prompts",
+      "description": "🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "提示工程",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/dontriskit/awesome-ai-system-prompts",
+      "author": "dontriskit",
+      "publishDate": "2025-03-05",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-993717808",
+      "title": "Awesome Agentic Patterns",
+      "description": "A curated catalogue of awesome agentic AI patterns",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/nibzard/awesome-agentic-patterns",
+      "author": "nibzard",
+      "publishDate": "2025-05-31",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-876064934",
+      "title": "Ai Engineering Hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "提示工程",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/patchy631/ai-engineering-hub",
+      "author": "patchy631",
+      "publishDate": "2024-10-21",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-854807707",
+      "title": "Genai Agents",
+      "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/NirDiamant/GenAI_Agents",
+      "author": "NirDiamant",
+      "publishDate": "2024-09-09",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1124249918",
+      "title": "Easy Vibe",
+      "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/datawhalechina/easy-vibe",
+      "author": "datawhalechina",
+      "publishDate": "2025-12-28",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1025300166",
+      "title": "How To Build A Coding Agent",
+      "description": "A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/ghuntley/how-to-build-a-coding-agent",
+      "author": "ghuntley",
+      "publishDate": "2025-07-24",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1105906942",
+      "title": "Vibe Vibe",
+      "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/datawhalechina/vibe-vibe",
+      "author": "datawhalechina",
+      "publishDate": "2025-11-28",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1088705108",
+      "title": "Agentguide",
+      "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "进阶",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/adongwanai/AgentGuide",
+      "author": "adongwanai",
+      "publishDate": "2025-11-03",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1082137380",
+      "title": "Ai Agents From Scratch",
+      "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/pguso/ai-agents-from-scratch",
+      "author": "pguso",
+      "publishDate": "2025-10-23",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-984011683",
+      "title": "Ai Agents Projects Tutorials",
+      "description": "Multi-agent systems, memory, planning, reasoning loops",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Marktechpost/AI-Agents-Projects-Tutorials",
+      "author": "Marktechpost",
+      "publishDate": "2025-05-15",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1178437140",
+      "title": "Build Your Own Openclaw",
+      "description": "A step-by-step guide to build your own AI agent.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/czl9707/build-your-own-openclaw",
+      "author": "czl9707",
+      "publishDate": "2026-03-11",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-697252953",
+      "title": "E2B Cookbook",
+      "description": "Examples of using E2B",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/e2b-dev/e2b-cookbook",
+      "author": "e2b-dev",
+      "publishDate": "2023-09-27",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-828268839",
+      "title": "Rag Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "RAG技术",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/NirDiamant/RAG_Techniques",
+      "author": "NirDiamant",
+      "publishDate": "2024-07-13",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-870554327",
+      "title": "Prompt Engineering",
+      "description": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "提示工程",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/NirDiamant/Prompt_Engineering",
+      "author": "NirDiamant",
+      "publishDate": "2024-10-10",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-601277247",
+      "title": "Langchain Tutorials",
+      "description": "Overview and tutorial of the LangChain Library",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/gkamradt/langchain-tutorials",
+      "author": "gkamradt",
+      "publishDate": "2023-02-13",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-835704674",
+      "title": "Handy Ollama",
+      "description": "动手学Ollama，CPU玩转大模型部署，在线阅读地址：https://datawhalechina.github.io/handy-ollama/",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/datawhalechina/handy-ollama",
+      "author": "datawhalechina",
+      "publishDate": "2024-07-30",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-751863240",
+      "title": "Langchain Kr",
+      "description": "LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/teddylee777/langchain-kr",
+      "author": "teddylee777",
+      "publishDate": "2024-02-02",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-652904959",
+      "title": "Langchain Tutorials",
+      "description": "A set of LangChain Tutorials from my youtube channel ",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/samwit/langchain-tutorials",
+      "author": "samwit",
+      "publishDate": "2023-06-13",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-627132009",
+      "title": "Get Things Done With Prompt Engineering And Langchain",
+      "description": "LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain",
+      "author": "curiousily",
+      "publishDate": "2023-04-12",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-903410228",
+      "title": "Langchain Opentutorial",
+      "description": "LangChain, LangGraph Open Tutorial for everyone!",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial",
+      "author": "LangChain-OpenTutorial",
+      "publishDate": "2024-12-14",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-931950959",
+      "title": "Ai Guide",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor /",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/liyupi/ai-guide",
+      "author": "liyupi",
+      "publishDate": "2025-02-13",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1124920990",
+      "title": "Awesome Agent Skills",
+      "description": "Tutorials, Guides and Agent Skills Directories",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/heilcheng/awesome-agent-skills",
+      "author": "heilcheng",
+      "publishDate": "2025-12-29",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1131107802",
+      "title": "Claude Code Ultimate Guide",
+      "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
+      "author": "FlorianBruniaux",
+      "publishDate": "2026-01-09",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1012676456",
+      "title": "Awesome Context Engineering",
+      "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "提示工程",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Meirtz/Awesome-Context-Engineering",
+      "author": "Meirtz",
+      "publishDate": "2025-07-02",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-882354535",
+      "title": "Awesome Langgraph",
+      "description": "An index of the LangChain + LangGraph ecosystem: concepts, projects, tools, templates, and guides for LLM & multi-agent apps.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/von-development/awesome-LangGraph",
+      "author": "von-development",
+      "publishDate": "2024-11-02",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1044710507",
+      "title": "Sgr Agent Core",
+      "description": "Schema-Guided Reasoning (SGR) has agentic system design created by neuraldeep community",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/vamplabAI/sgr-agent-core",
+      "author": "vamplabAI",
+      "publishDate": "2025-08-26",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1052387869",
+      "title": "Llm Agents Ecosystem Handbook",
+      "description": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "入门",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
+      "author": "oxbshw",
+      "publishDate": "2025-09-08",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1169441605",
+      "title": "Llm Agent Interview Guide",
+      "description": "🔥 大模型 & Agent 面试八股文完全指南 | LLM & Agent Interview Preparation Guide",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Lau-Jonathan/LLM-Agent-Interview-Guide",
+      "author": "Lau-Jonathan",
+      "publishDate": "2026-02-28",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-995029641",
+      "title": "Ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/ruvnet/ruflo",
+      "author": "ruvnet",
+      "publishDate": "2025-06-02",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-287463830",
+      "title": "Qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/microsoft/qlib",
+      "author": "microsoft",
+      "publishDate": "2020-08-14",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1124219907",
+      "title": "Deeptutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/HKUDS/DeepTutor",
+      "author": "HKUDS",
+      "publishDate": "2025-12-28",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-942114501",
+      "title": "Owl",
+      "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/camel-ai/owl",
+      "author": "camel-ai",
+      "publishDate": "2025-03-03",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-102904613",
+      "title": "Ml Agents",
+      "description": "The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement lea",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "框架开发",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Unity-Technologies/ml-agents",
+      "author": "Unity-Technologies",
+      "publishDate": "2017-09-08",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1178737655",
+      "title": "Openmaic",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/THU-MAIC/OpenMAIC",
+      "author": "THU-MAIC",
+      "publishDate": "2026-03-11",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-534011733",
+      "title": "Gymnasium",
+      "description": "An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Farama-Foundation/Gymnasium",
+      "author": "Farama-Foundation",
+      "publishDate": "2022-09-08",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-946178371",
+      "title": "Art",
+      "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/OpenPipe/ART",
+      "author": "OpenPipe",
+      "publishDate": "2025-03-10",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-1167209519",
+      "title": "Star Office Ui",
+      "description": "A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/ringhyacinth/Star-Office-UI",
+      "author": "ringhyacinth",
+      "publishDate": "2026-02-26",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "gh-tut-199730019",
+      "title": "Tensortrade",
+      "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
+      "icon": "📚",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "基础入门",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/tensortrade-org/tensortrade",
+      "author": "tensortrade-org",
+      "publishDate": "2019-07-30",
+      "platform": "github",
+      "tags": [
+        "tutorial",
+        "github",
+        "ai"
+      ]
+    },
+    {
+      "id": "devto-tut-3506833",
+      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
+      "description": "Winners Announced!         Congrats to the OpenClaw Challenge Winners!                               ...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
+      "author": "jess",
+      "publishDate": "2026-04-16",
+      "platform": "devto",
+      "tags": [
+        "ai",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3533667",
+      "title": "If AI Existed in 2011, Would We Still Have the Modern Web?",
+      "description": "Imagine it’s 2011. The web is mostly server-rendered PHP templates, maybe a bit of jQuery if you’re...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g",
+      "author": "sylwia-lask",
+      "publishDate": "2026-04-22",
+      "platform": "devto",
+      "tags": [
+        "ai",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3516155",
+      "title": "Congrats to the Notion MCP Challenge Winners!",
+      "description": "The results are in!  We're thrilled to announce our winners for the Notion MCP Challenge! From...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
+      "author": "jess",
+      "publishDate": "2026-04-17",
+      "platform": "devto",
+      "tags": [
+        "ai",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3510833",
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "提示工程",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "author": "jonoherrington",
+      "publishDate": "2026-04-16",
+      "platform": "devto",
+      "tags": [
+        "ai",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3545447",
+      "title": "I Used to Love Coding. Now I Just Prompt.",
+      "description": "Last weekend, I opened my laptop.  No deadline. No client. No pressure. Just me, my keyboard, and a...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "提示工程",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l",
+      "author": "harsh2644",
+      "publishDate": "2026-04-24",
+      "platform": "devto",
+      "tags": [
+        "ai",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3477156",
+      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
+      "description": "I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
+      "author": "maria_from_mlh",
+      "publishDate": "2026-04-09",
+      "platform": "devto",
+      "tags": [
+        "ai",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3629085",
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
+      "author": "jess",
+      "publishDate": "2026-05-07",
+      "platform": "devto",
+      "tags": [
+        "ai",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3520811",
+      "title": "Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday c",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition  Fluffer: someone who helps people \"get...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj",
+      "author": "grahamthedev",
+      "publishDate": "2026-04-18",
+      "platform": "devto",
+      "tags": [
+        "ai",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3500482",
+      "title": "Your Job Isn't Going Away. But Someone's Fundraise Depends on You Thinking It Is",
+      "description": "I've been watching the AI narrative closely. Building with it. Learning in public. Talking to...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el",
+      "author": "jon_at_backboardio",
+      "publishDate": "2026-04-14",
+      "platform": "devto",
+      "tags": [
+        "ai",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3617519",
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "框架开发",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
+      "author": "erikch",
+      "publishDate": "2026-05-06",
+      "platform": "devto",
+      "tags": [
+        "ai",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3547210",
+      "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) f",
+      "description": "Google has just announced the release of Gemma 4! This new generation of open models brings...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
+      "author": "shirmeirlador",
+      "publishDate": "2026-04-28",
+      "platform": "devto",
+      "tags": [
+        "machinelearning",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3593792",
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Get",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "author": "ainaomotayo",
+      "publishDate": "2026-05-01",
+      "platform": "devto",
+      "tags": [
+        "machinelearning",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3500926",
+      "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1",
+      "description": "Background   I needed high-quality instruction datasets for fine-tuning local LLMs, but...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280",
+      "author": "robopilingui",
+      "publishDate": "2026-04-14",
+      "platform": "devto",
+      "tags": [
+        "machinelearning",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3502321",
+      "title": "Your AI Memory System Can't Tell a River Bank from a Savings Account",
+      "description": "Regex-based safety classification fails in both directions. It flags \"the bank of the river\" as...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j",
+      "author": "eyepaq",
+      "publishDate": "2026-04-15",
+      "platform": "devto",
+      "tags": [
+        "machinelearning",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3559522",
+      "title": "ML acceleration guide: TPUs vs GPUs",
+      "description": "There’s a lot of hype around GPUs and NVIDIA, but how much do you know about TPUs?      Article...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/gde/ml-acceleration-guide-tpus-vs-gpus-16oh",
+      "author": "glen_yu",
+      "publishDate": "2026-04-28",
+      "platform": "devto",
+      "tags": [
+        "machinelearning",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3514734",
+      "title": "Teaching Alfred to Remember with a Neuroscience-Inspired Memory System for AI Ag",
+      "description": "Introduction   My people, its me again. A few months back, I wrote about Alfred, my personal...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "框架开发",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/joojodontoh/teaching-alfred-to-remember-with-a-neuroscience-inspired-memory-system-for-ai-agents-2o5l",
+      "author": "joojodontoh",
+      "publishDate": "2026-04-19",
+      "platform": "devto",
+      "tags": [
+        "machinelearning",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3550059",
+      "title": "OCR in the Browser: How Tesseract.js Makes PDF Text Extraction Free",
+      "description": "Optical character recognition used to require cloud APIs and per-page billing. Tesseract.js runs the same engine inside your browser tab. A practical guide to what works, what doesn't, and how to wire",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/helloashish99/ocr-in-the-browser-how-tesseractjs-makes-pdf-text-extraction-free-5ab2",
+      "author": "helloashish99",
+      "publishDate": "2026-04-25",
+      "platform": "devto",
+      "tags": [
+        "machinelearning",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3477691",
+      "title": "Candy Barbecue and the Universal Problem of Metric Corruption",
+      "description": "Johnny Trigger has won the World BBQ Championship twice. His competition ribs are legendary — glossy,...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/vibeagentmaking/candy-barbecue-and-the-universal-problem-of-metric-corruption-2lgf",
+      "author": "vibeagentmaking",
+      "publishDate": "2026-04-09",
+      "platform": "devto",
+      "tags": [
+        "machinelearning",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3512224",
+      "title": "Building a Fully Automated Horse Racing AI Prediction Pipeline with Flutter + Su",
+      "description": "Building a Fully Automated Horse Racing AI Prediction Pipeline with Flutter + Supabase     ...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/kanta13jp1/building-a-fully-automated-horse-racing-ai-prediction-pipeline-with-flutter-supabase-21b2",
+      "author": "kanta13jp1",
+      "publishDate": "2026-04-16",
+      "platform": "devto",
+      "tags": [
+        "machinelearning",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3554430",
+      "title": "The Context Window Lie: Why Your LLM Remembers Nothing",
+      "description": "The Context Window Lie: Why Your LLM Remembers Nothing   Every time you paste 200K tokens...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/turacthethinker/the-context-window-lie-why-your-llm-remembers-nothing-5h1p",
+      "author": "turacthethinker",
+      "publishDate": "2026-04-27",
+      "platform": "devto",
+      "tags": [
+        "machinelearning",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3506732",
+      "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
+      "description": "What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "API集成",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
+      "author": "thorwebdev",
+      "publishDate": "2026-04-16",
+      "platform": "devto",
+      "tags": [
+        "python",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3547453",
+      "title": "The Vonage Dev Discussion: Making mistakes",
+      "description": "Nobody is perfect! Even the most seasoned developers have made mistakes – it’s all just part of the...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc",
+      "author": "lizzzzz",
+      "publishDate": "2026-04-24",
+      "platform": "devto",
+      "tags": [
+        "python",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3497658",
+      "title": "TraceMind v2 — I added hallucination detection and A/B testing to my open-source",
+      "description": "What changed since v1   When I posted the first version of TraceMind, I got one clear piece...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/aayush_kumarsingh_6ee1ffe/tracemind-v2-i-added-hallucination-detection-and-ab-testing-to-my-open-source-llm-eval-platform-1lkn",
+      "author": "aayush_kumarsingh_6ee1ffe",
+      "publishDate": "2026-04-14",
+      "platform": "devto",
+      "tags": [
+        "python",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3608799",
+      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
+      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "框架开发",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "author": "vystartasv",
+      "publishDate": "2026-05-04",
+      "platform": "devto",
+      "tags": [
+        "python",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3501726",
+      "title": "Why Build a Local MCP Server (And How to Do It in 15 Minutes)",
+      "description": "I've been working with MCP servers for a few months now. If you're not familiar, MCP (Model Context...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/evanlausier/why-build-a-local-mcp-server-and-how-to-do-it-in-15-minutes-1423",
+      "author": "evanlausier",
+      "publishDate": "2026-04-14",
+      "platform": "devto",
+      "tags": [
+        "python",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3477706",
+      "title": "The Formula Was Exact. The Assumption Was Wrong. That's Not an AI Problem.",
+      "description": "Your geology will always govern your geophysics.   My lecturer said it once. I wrote it down. I...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/dannwaneri/the-formula-was-exact-the-assumption-was-wrong-thats-not-an-ai-problem-58dm",
+      "author": "dannwaneri",
+      "publishDate": "2026-04-10",
+      "platform": "devto",
+      "tags": [
+        "python",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3621715",
+      "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's all",
+      "description": "Amazon Web Services (AWS) just shipped Amazon Bedrock AgentCore harness harness in public preview. It...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "框架开发",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
+      "author": "vidanov",
+      "publishDate": "2026-05-06",
+      "platform": "devto",
+      "tags": [
+        "python",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3517505",
+      "title": "Why I built a lossless alternative to AI memory summarization",
+      "description": "Why I built a lossless alternative to AI memory summarization  Every AI memory tool I tried...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/wynelson94/why-i-built-a-lossless-alternative-to-ai-memory-summarization-40cl",
+      "author": "wynelson94",
+      "publishDate": "2026-04-18",
+      "platform": "devto",
+      "tags": [
+        "python",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3489011",
+      "title": "Building a Football Analytics Pipeline: Patterns, Tradeoffs, and What Production",
+      "description": "Football is the most watched sport on the planet. Millions of fans follow their teams across leagues,...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "工程实践",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/ayoabass777/building-a-football-analytics-pipeline-patterns-tradeoffs-and-what-production-would-look-like-n66",
+      "author": "ayoabass777",
+      "publishDate": "2026-04-12",
+      "platform": "devto",
+      "tags": [
+        "python",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3609152",
+      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
+      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment v",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
+      "author": "vladimirnovick",
+      "publishDate": "2026-05-04",
+      "platform": "devto",
+      "tags": [
+        "javascript",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3506970",
+      "title": "Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)",
+      "description": "We’re a quarter into the 21st century, and the browser has quietly evolved into something much more...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/sylwia-lask/most-apps-are-slower-than-they-need-to-be-heres-why-live-demo-2hh8",
+      "author": "sylwia-lask",
+      "publishDate": "2026-04-16",
+      "platform": "devto",
+      "tags": [
+        "javascript",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3512820",
+      "title": "🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extensio",
+      "description": "Intro   I created an AI avatar, a VRM 3D character that reacts when you chat with AI or...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7",
+      "author": "webdeveloperhyper",
+      "publishDate": "2026-04-21",
+      "platform": "devto",
+      "tags": [
+        "javascript",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3604041",
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "author": "harshil1712",
+      "publishDate": "2026-05-03",
+      "platform": "devto",
+      "tags": [
+        "javascript",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3501734",
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "description": "Teams overengineer routing, memory, guardrails, and error handling. The LLM already handles most of it. Stop building what you don't need.",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "框架开发",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "author": "serhiip",
+      "publishDate": "2026-04-14",
+      "platform": "devto",
+      "tags": [
+        "javascript",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3451384",
+      "title": "M||D||JS = MorDorJS",
+      "description": "This is a submission for the DEV April Fools Challenge   TLDR :: MP is FUFF the Final Underground...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/pengeszikra/mdjs-mordorjs-1mon",
+      "author": "pengeszikra",
+      "publishDate": "2026-04-12",
+      "platform": "devto",
+      "tags": [
+        "javascript",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3498472",
+      "title": "Building the DEV Community Homepage with Pure Canvas",
+      "description": "Building the DEV Community Homepage with Pure Canvas   In modern frontend development, we...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0",
+      "author": "ouzhou",
+      "publishDate": "2026-04-14",
+      "platform": "devto",
+      "tags": [
+        "javascript",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3603637",
+      "title": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS C",
+      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab",
+      "author": "webdeveloperhyper",
+      "publishDate": "2026-05-06",
+      "platform": "devto",
+      "tags": [
+        "javascript",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3602860",
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
+      "author": "edmundsparrow",
+      "publishDate": "2026-05-03",
+      "platform": "devto",
+      "tags": [
+        "javascript",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3553477",
+      "title": "15 Essential Sections Every README Needs: Give Your Project What It Deserves",
+      "description": "Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie",
+      "author": "georgekobaidze",
+      "publishDate": "2026-04-26",
+      "platform": "devto",
+      "tags": [
+        "tutorial",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3528949",
+      "title": "Build your own blog post view counter on AWS Free Tier",
+      "description": "Your blog deserves to know it's being read. A Lambda function counts the views, DynamoDB remembers...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f",
+      "author": "esin87",
+      "publishDate": "2026-04-21",
+      "platform": "devto",
+      "tags": [
+        "tutorial",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3531808",
+      "title": "What To Do If Your Project Was Affected By The Vercel Breach",
+      "description": "Vercel confirmed a security incident on April 19, 2026 affecting customer environment variables....",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76",
+      "author": "dumebii",
+      "publishDate": "2026-04-21",
+      "platform": "devto",
+      "tags": [
+        "tutorial",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3601343",
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "author": "anchildress1",
+      "publishDate": "2026-05-02",
+      "platform": "devto",
+      "tags": [
+        "tutorial",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3540968",
+      "title": "Run OpenClaw Locally on Windows Using Windows Sandbox for Secure Isolation",
+      "description": "This is a submission for the OpenClaw Writing Challenge  Many developers (myself included) are...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/gramli/run-openclaw-locally-on-windows-using-windows-sandbox-for-secure-isolation-411b",
+      "author": "gramli",
+      "publishDate": "2026-04-27",
+      "platform": "devto",
+      "tags": [
+        "tutorial",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3613934",
+      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Bac",
+      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "工程实践",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
+      "author": "evanlin",
+      "publishDate": "2026-05-07",
+      "platform": "devto",
+      "tags": [
+        "tutorial",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3623932",
+      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
+      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
+      "author": "thegdsks",
+      "publishDate": "2026-05-07",
+      "platform": "devto",
+      "tags": [
+        "tutorial",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "devto-tut-3560335",
+      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
+      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
+      "icon": "📝",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "工程实践",
+      "source": "Dev.to",
+      "sourceUrl": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
+      "author": "alexandertyutin",
+      "publishDate": "2026-05-04",
+      "platform": "devto",
+      "tags": [
+        "tutorial",
+        "tutorial",
+        "dev"
+      ]
+    },
+    {
+      "id": "medium-ai-tutorials",
+      "title": "Medium AI Agent 精选教程",
+      "description": "来自Medium平台的AI Agent技术文章",
+      "icon": "📖",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "20分钟",
+      "category": "基础入门",
+      "source": "Medium",
+      "sourceUrl": "https://medium.com/tag/ai-agent",
+      "author": "Medium Authors",
+      "publishDate": "2026-05-09",
+      "platform": "medium",
+      "tags": [
+        "medium",
+        "ai",
+        "article"
+      ]
+    },
+    {
+      "id": "hf-nlp-course",
+      "title": "HuggingFace NLP Course",
+      "description": "HuggingFace官方NLP课程，学习Transformer和AI Agent开发",
+      "icon": "🤗",
+      "type": "course",
+      "difficulty": "中级",
+      "duration": "4小时+",
+      "category": "框架开发",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/learn/nlp-course",
+      "author": "HuggingFace",
+      "publishDate": "2026-05-09",
+      "platform": "huggingface",
+      "tags": [
+        "huggingface",
+        "course",
+        "nlp"
+      ]
+    },
+    {
+      "id": "juejin-ai-tutorials",
+      "title": "掘金AI Agent技术专栏",
+      "description": "来自掘金社区的AI Agent技术文章和教程",
+      "icon": "💎",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "25分钟",
+      "category": "框架开发",
+      "source": "掘金",
+      "sourceUrl": "https://juejin.cn/tag/AI",
+      "author": "掘金社区",
+      "publishDate": "2026-05-09",
+      "platform": "juejin",
+      "tags": [
+        "掘金",
+        "ai",
+        "前端"
+      ]
+    },
+    {
+      "id": "zhihu-ai-tutorials",
+      "title": "知乎AI Agent专栏文章",
+      "description": "来自知乎社区的AI Agent技术讨论和教程",
+      "icon": "🔵",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "20分钟",
+      "category": "基础入门",
+      "source": "知乎",
+      "sourceUrl": "https://www.zhihu.com/topic/19551275",
+      "author": "知乎用户",
+      "publishDate": "2026-05-09",
+      "platform": "zhihu",
+      "tags": [
+        "知乎",
+        "ai",
+        "讨论"
+      ]
+    },
+    {
+      "id": "csdn-ai-tutorials",
+      "title": "CSDN AI Agent技术博客",
+      "description": "来自CSDN的AI Agent技术文章和教程",
+      "icon": "🟢",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "30分钟",
+      "category": "工程实践",
+      "source": "CSDN",
+      "sourceUrl": "https://www.csdn.net/nav/ai",
+      "author": "CSDN博主",
+      "publishDate": "2026-05-09",
+      "platform": "csdn",
+      "tags": [
+        "csdn",
+        "ai",
+        "教程"
+      ]
+    },
+    {
+      "id": "bili-ai-tutorials",
+      "title": "B站AI Agent视频教程精选",
+      "description": "来自B站的AI Agent视频教程合集",
+      "icon": "📺",
+      "type": "video",
+      "difficulty": "中级",
+      "duration": "45分钟",
+      "category": "基础入门",
+      "source": "B站",
+      "sourceUrl": "https://search.bilibili.com/all?keyword=AI%20Agent%20教程",
+      "author": "B站UP主",
+      "publishDate": "2026-05-09",
+      "platform": "bilibili",
+      "tags": [
+        "bilibili",
+        "video",
+        "tutorial"
+      ]
+    }
+  ],
+  "totalCount": 98
+}
