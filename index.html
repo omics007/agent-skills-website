@@ -3641,6 +3641,8 @@ const state = {
     selectedTutorialDifficulty: null,
     selectedNewsCategory: null,
     selectedNewsSource: null,
+    newsSearchQuery: '',
+    tutorialSearchQuery: '',
     searchQuery: '',
     skills: [],
     news: [],
@@ -5005,12 +5007,22 @@ function renderSkills() {
     const html = `
         <div class="page-header">
             <h1 class="page-title">Skills 市场</h1>
-            <p class="page-subtitle">共 ${state.skills.length} 个 Skills，来自 GitHub API 真实数据</p>
+            <p class="page-subtitle">共 ${state.skills.length} 个智能体 Skills，来自全球主流平台</p>
         </div>
         
         <div class="filters-bar">
             <div class="filters-container">
-                <div class="filter-group">
+                <div class="filter-group" style="display:flex;align-items:center;gap:var(--space-sm);flex-wrap:wrap;">
+                    <div class="search-box" style="position:relative;flex:1;min-width:220px;max-width:400px;">
+                        <svg style="position:absolute;left:10px;top:50%;transform:translateY(-50%);opacity:0.5;" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                        <input type="text" class="filter-input" id="skillsSearchInput" 
+                               placeholder="搜索 Skills..." value="${state.searchQuery || ''}"
+                               oninput="handleSkillsSearch(this.value)"
+                               style="width:100%;padding:8px 12px 8px 34px;border-radius:var(--radius-md);border:1px solid var(--border-glass);background:var(--bg-tertiary);color:var(--text-primary);font-size:14px;outline:none;transition:border-color 0.2s;"
+                               onfocus="this.style.borderColor='var(--accent-spacex)'" onblur="this.style.borderColor='var(--border-glass)'">
+                        ${state.searchQuery ? `<button onclick="clearSkillsSearch()" style="position:absolute;right:8px;top:50%;transform:translateY(-50%);background:none;border:none;color:var(--text-muted);cursor:pointer;font-size:16px;padding:2px 4px;">✕</button>` : ''}
+                    </div>
+                    
                     <span class="filter-label">分类：</span>
                     <select class="filter-select" id="categoryFilter" onchange="filterByCategory(this.value)">
                         <option value="">全部分类</option>
@@ -5087,6 +5099,15 @@ function renderNews() {
         filteredNews = filteredNews.filter(n => n.source === state.selectedNewsSource);
     }
     
+    if (state.newsSearchQuery) {
+        const query = state.newsSearchQuery.toLowerCase();
+        filteredNews = filteredNews.filter(n =>
+            (n.title || '').toLowerCase().includes(query) ||
+            (n.summary || '').toLowerCase().includes(query) ||
+            (n.source || '').toLowerCase().includes(query)
+        );
+    }
+    
     // Get unique categories and sources
     const categories = [...new Set(state.news.map(n => n.category))];
     const sources = [...new Set(state.news.map(n => n.source))];
@@ -5099,7 +5120,17 @@ function renderNews() {
         
         <div class="filters-bar">
             <div class="filters-container">
-                <div class="filter-group">
+                <div class="filter-group" style="display:flex;align-items:center;gap:var(--space-sm);flex-wrap:wrap;">
+                    <div class="search-box" style="position:relative;flex:1;min-width:220px;max-width:400px;">
+                        <svg style="position:absolute;left:10px;top:50%;transform:translateY(-50%);opacity:0.5;" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                        <input type="text" class="filter-input" id="newsSearchInput" 
+                               placeholder="搜索资讯..." value="${state.newsSearchQuery || ''}"
+                               oninput="handleNewsSearch(this.value)"
+                               style="width:100%;padding:8px 12px 8px 34px;border-radius:var(--radius-md);border:1px solid var(--border-glass);background:var(--bg-tertiary);color:var(--text-primary);font-size:14px;outline:none;transition:border-color 0.2s;"
+                               onfocus="this.style.borderColor='var(--accent-spacex)'" onblur="this.style.borderColor='var(--border-glass)'">
+                        ${state.newsSearchQuery ? `<button onclick="clearNewsSearch()" style="position:absolute;right:8px;top:50%;transform:translateY(-50%);background:none;border:none;color:var(--text-muted);cursor:pointer;font-size:16px;padding:2px 4px;">✕</button>` : ''}
+                    </div>
+                    
                     <span class="filter-label">分类：</span>
                     <div class="filter-tags">
                         <span class="filter-tag ${!state.selectedNewsCategory ? 'active' : ''}" 
@@ -5163,6 +5194,16 @@ function renderTutorials() {
         filteredTutorials = filteredTutorials.filter(t => t.difficulty === state.selectedTutorialDifficulty);
     }
     
+    if (state.tutorialSearchQuery) {
+        const query = state.tutorialSearchQuery.toLowerCase();
+        filteredTutorials = filteredTutorials.filter(t =>
+            (t.title || '').toLowerCase().includes(query) ||
+            (t.description || '').toLowerCase().includes(query) ||
+            (t.author || '').toLowerCase().includes(query) ||
+            (t.category || '').toLowerCase().includes(query)
+        );
+    }
+    
     // Get unique platforms
     const platforms = [...new Set(state.tutorials.map(t => t.platform))];
     
@@ -5174,7 +5215,17 @@ function renderTutorials() {
         
         <div class="filters-bar">
             <div class="filters-container">
-                <div class="filter-group">
+                <div class="filter-group" style="display:flex;align-items:center;gap:var(--space-sm);flex-wrap:wrap;">
+                    <div class="search-box" style="position:relative;flex:1;min-width:220px;max-width:400px;">
+                        <svg style="position:absolute;left:10px;top:50%;transform:translateY(-50%);opacity:0.5;" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                        <input type="text" class="filter-input" id="tutorialSearchInput" 
+                               placeholder="搜索教程..." value="${state.tutorialSearchQuery || ''}"
+                               oninput="handleTutorialSearch(this.value)"
+                               style="width:100%;padding:8px 12px 8px 34px;border-radius:var(--radius-md);border:1px solid var(--border-glass);background:var(--bg-tertiary);color:var(--text-primary);font-size:14px;outline:none;transition:border-color 0.2s;"
+                               onfocus="this.style.borderColor='var(--accent-spacex)'" onblur="this.style.borderColor='var(--border-glass)'">
+                        ${state.tutorialSearchQuery ? `<button onclick="clearTutorialSearch()" style="position:absolute;right:8px;top:50%;transform:translateY(-50%);background:none;border:none;color:var(--text-muted);cursor:pointer;font-size:16px;padding:2px 4px;">✕</button>` : ''}
+                    </div>
+                    
                     <span class="filter-label">类型：</span>
                     <div class="filter-tags">
                         <span class="filter-tag ${!state.selectedTutorialType ? 'active' : ''}" 
@@ -6363,6 +6414,39 @@ function performSearch() {
         state.searchQuery = query;
         window.location.hash = '#/skills';
     }
+}
+
+// Skills 市场页面内搜索（实时过滤）
+function handleSkillsSearch(query) {
+    state.searchQuery = query.trim();
+    renderSkills();
+}
+
+function clearSkillsSearch() {
+    state.searchQuery = '';
+    renderSkills();
+}
+
+// 资讯中心页面内搜索
+function handleNewsSearch(query) {
+    state.newsSearchQuery = query.trim();
+    renderNews();
+}
+
+function clearNewsSearch() {
+    state.newsSearchQuery = '';
+    renderNews();
+}
+
+// 教程中心页面内搜索
+function handleTutorialSearch(query) {
+    state.tutorialSearchQuery = query.trim();
+    renderTutorials();
+}
+
+function clearTutorialSearch() {
+    state.tutorialSearchQuery = '';
+    renderTutorials();
 }
 
 function performSearchOverlay() {
