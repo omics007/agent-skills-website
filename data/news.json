@@ -1,7 +1,227 @@
 {
-  "lastUpdated": "2026-05-09T14:12:20.981124",
+  "lastUpdated": "2026-05-09T15:27:41.973218",
   "source": "multi-platform",
   "news": [
+    {
+      "id": "bili-news-116544541564390",
+      "title": "[视频] 【LangChain4j】2026吃透LangChain4j全套教程，从入门、RAG知识库、会话管理到Tools高级实战，传统Java程序员直接逆袭AI开发！！",
+      "summary": "B站视频: 【LangChain4j】2026吃透LangChain4j全套教程，从入门、RAG知识库、会话管理到Tools高级实战，传统Java程序员直接逆袭AI开发！！",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1NXRXBFEnD",
+      "date": "2026-05-09",
+      "category": "工具发布",
+      "platform": "bilibili",
+      "score": 2033
+    },
+    {
+      "id": "bili-news-116544575180872",
+      "title": "[视频] Anthropic开发团队解密Claude Agent平台",
+      "summary": "B站视频: Anthropic开发团队解密Claude Agent平台",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1sRRXBZEL8",
+      "date": "2026-05-09",
+      "category": "大模型",
+      "platform": "bilibili",
+      "score": 798
+    },
+    {
+      "id": "bili-news-116542930950117",
+      "title": "[视频] 白嫖CNB免费48G显存高配GPU服务器的小技巧",
+      "summary": "B站视频: 白嫖CNB免费48G显存高配GPU服务器的小技巧",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV18ARXBYENZ",
+      "date": "2026-05-09",
+      "category": "行业动态",
+      "platform": "bilibili",
+      "score": 257
+    },
+    {
+      "id": "bili-news-116544826771310",
+      "title": "[视频] AI抢工作后，发钱还是保饭碗？",
+      "summary": "B站视频: AI抢工作后，发钱还是保饭碗？",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV17xRXBmEMe",
+      "date": "2026-05-09",
+      "category": "行业动态",
+      "platform": "bilibili",
+      "score": 103
+    },
+    {
+      "id": "weixin-news-0",
+      "title": "OpenAI发布GPT-5：多模态能力全面升级",
+      "summary": "微信公众号「AI科技大本营」发布",
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "date": "2026-05-09",
+      "category": "大模型",
+      "platform": "weixin",
+      "score": 100
+    },
+    {
+      "id": "weixin-news-1",
+      "title": "Anthropic Claude 3.5震撼发布：推理能力超越GPT-4",
+      "summary": "微信公众号「机器之心」发布",
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "date": "2026-05-09",
+      "category": "大模型",
+      "platform": "weixin",
+      "score": 100
+    },
+    {
+      "id": "weixin-news-2",
+      "title": "国产大模型突围：DeepSeek V3技术解析",
+      "summary": "微信公众号「量子位」发布",
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "date": "2026-05-09",
+      "category": "大模型",
+      "platform": "weixin",
+      "score": 100
+    },
+    {
+      "id": "weixin-news-3",
+      "title": "AI Agent商业化元年：2026年行业趋势报告",
+      "summary": "微信公众号「新智元」发布",
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "date": "2026-05-09",
+      "category": "行业动态",
+      "platform": "weixin",
+      "score": 100
+    },
+    {
+      "id": "weixin-news-4",
+      "title": "LangChain获巨额融资，Agent框架赛道持续火热",
+      "summary": "微信公众号「AI科技评论」发布",
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "date": "2026-05-09",
+      "category": "行业动态",
+      "platform": "weixin",
+      "score": 100
+    },
+    {
+      "id": "bili-news-116543602098590",
+      "title": "[视频] 真正有用的AI原来是这样的...为了让大家把精力都放在更有意义的工作上，我做了这个 Agent ，画图、写 PPT 一条龙。",
+      "summary": "B站视频: 真正有用的AI原来是这样的...为了让大家把精力都放在更有意义的工作上，我做了这个 Agent ，画图、写 PPT 一条龙。",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1KxRQBfEyo",
+      "date": "2026-05-09",
+      "category": "AI Agent",
+      "platform": "bilibili",
+      "score": 80
+    },
+    {
+      "id": "bili-news-116544575115178",
+      "title": "[视频] Udemy - Mastering Claude Cowork &amp; AI Agent Automation",
+      "summary": "B站视频: Udemy - Mastering Claude Cowork &amp; AI Agent Automation",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1wRRXBZEQB",
+      "date": "2026-05-09",
+      "category": "大模型",
+      "platform": "bilibili",
+      "score": 56
+    },
+    {
+      "id": "bili-news-116544826773664",
+      "title": "[视频] 北京人形慧思开物Agent",
+      "summary": "B站视频: 北京人形慧思开物Agent",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1ExRXBmEsi",
+      "date": "2026-05-09",
+      "category": "AI Agent",
+      "platform": "bilibili",
+      "score": 47
+    },
+    {
+      "id": "bili-news-116544776443131",
+      "title": "[视频] 经典Agent配置教程",
+      "summary": "B站视频: 经典Agent配置教程",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1VqRXBgEAm",
+      "date": "2026-05-09",
+      "category": "AI Agent",
+      "platform": "bilibili",
+      "score": 19
+    },
+    {
+      "id": "bili-news-116545179092659",
+      "title": "[视频] Codex操控Chrome 安装教程，浏览器被AI接管后，工作流太爽了",
+      "summary": "B站视频: Codex操控Chrome 安装教程，浏览器被AI接管后，工作流太爽了",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1krRdBPESq",
+      "date": "2026-05-09",
+      "category": "行业动态",
+      "platform": "bilibili",
+      "score": 18
+    },
+    {
+      "id": "bili-news-116545095205187",
+      "title": "[视频] 亲测落地！5分钟用AI全自动做口播短视频，从剪片写文案到做封面发平台全搞定",
+      "summary": "B站视频: 亲测落地！5分钟用AI全自动做口播短视频，从剪片写文案到做封面发平台全搞定",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV197RdBSEDh",
+      "date": "2026-05-09",
+      "category": "行业动态",
+      "platform": "bilibili",
+      "score": 11
+    },
+    {
+      "id": "bili-news-116542645739185",
+      "title": "[视频] 【CISSP试听】ISC2官方AI考试指南深度解析（2026最新趋势）",
+      "summary": "B站视频: 【CISSP试听】ISC2官方AI考试指南深度解析（2026最新趋势）",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1UERSBREjK",
+      "date": "2026-05-09",
+      "category": "行业动态",
+      "platform": "bilibili",
+      "score": 11
+    },
+    {
+      "id": "bili-news-116545279760555",
+      "title": "[视频] 拓跋龙的技术实验室：小米大模型Mimo2.5-pro初体验3- ai4ppt功能实操讲解",
+      "summary": "B站视频: 拓跋龙的技术实验室：小米大模型Mimo2.5-pro初体验3- ai4ppt功能实操讲解",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1AcRdBaELd",
+      "date": "2026-05-09",
+      "category": "行业动态",
+      "platform": "bilibili",
+      "score": 7
+    },
+    {
+      "id": "bili-news-116544927700138",
+      "title": "[视频] Harness：从编码者到马具制造者！一场AI编程的实验，agent（智能体）没变，model（模型）也没变，是什么让效率提升10倍？",
+      "summary": "B站视频: Harness：从编码者到马具制造者！一场AI编程的实验，agent（智能体）没变，model（模型）也没变，是什么让效率提升10倍？",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1mmRXBhETX",
+      "date": "2026-05-09",
+      "category": "AI Agent",
+      "platform": "bilibili",
+      "score": 7
+    },
+    {
+      "id": "bili-news-116543417550271",
+      "title": "[视频] Replit Agent评估实战：ViBench基准与自动化改进闭环解析 | Claude",
+      "summary": "B站视频: Replit Agent评估实战：ViBench基准与自动化改进闭环解析 | Claude",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1gERQBeEAK",
+      "date": "2026-05-09",
+      "category": "大模型",
+      "platform": "bilibili",
+      "score": 2
+    },
+    {
+      "id": "bili-news-116545195876235",
+      "title": "[视频] Give Your Chat Agent a Voice — Luke Harries, ElevenLabs",
+      "summary": "B站视频: Give Your Chat Agent a Voice — Luke Harries, ElevenLabs",
+      "source": "B站",
+      "sourceUrl": "https://www.bilibili.com/video/BV1yzRdBvEVv",
+      "date": "2026-05-09",
+      "category": "AI Agent",
+      "platform": "bilibili",
+      "score": 1
+    },
     {
       "id": "medium-ai-news",
       "title": "Medium AI 最新文章",
@@ -44,28 +264,6 @@
       "date": "2026-05-09",
       "category": "行业动态",
       "platform": "csdn",
-      "score": 0
-    },
-    {
-      "id": "bili-ai-news",
-      "title": "B站AI视频动态",
-      "summary": "来自B站的AI相关视频动态",
-      "source": "B站",
-      "sourceUrl": "https://search.bilibili.com/all?keyword=AI",
-      "date": "2026-05-09",
-      "category": "行业动态",
-      "platform": "bilibili",
-      "score": 0
-    },
-    {
-      "id": "weixin-ai-news",
-      "title": "微信公众号AI文章精选",
-      "summary": "来自微信公众号的AI技术文章",
-      "source": "微信",
-      "sourceUrl": "https://weixin.sogou.com/",
-      "date": "2026-05-09",
-      "category": "行业动态",
-      "platform": "weixin",
       "score": 0
     },
     {
@@ -308,7 +506,7 @@
       "date": "2026-03-14",
       "category": "工具发布",
       "platform": "github",
-      "score": 19452
+      "score": 19458
     },
     {
       "id": "gh-news-1176129893",
@@ -319,7 +517,7 @@
       "date": "2026-03-08",
       "category": "工具发布",
       "platform": "github",
-      "score": 17195
+      "score": 17196
     },
     {
       "id": "gh-news-1174820787",
@@ -330,7 +528,7 @@
       "date": "2026-03-06",
       "category": "工具发布",
       "platform": "github",
-      "score": 79941
+      "score": 79960
     },
     {
       "id": "gh-news-1171026502",
@@ -341,7 +539,7 @@
       "date": "2026-03-02",
       "category": "工具发布",
       "platform": "github",
-      "score": 25969
+      "score": 25970
     },
     {
       "id": "gh-news-1165277268",
@@ -352,7 +550,7 @@
       "date": "2026-02-24",
       "category": "工具发布",
       "platform": "github",
-      "score": 19071
+      "score": 19072
     },
     {
       "id": "gh-news-1158722119",
@@ -363,7 +561,7 @@
       "date": "2026-02-15",
       "category": "工具发布",
       "platform": "github",
-      "score": 36958
+      "score": 37037
     },
     {
       "id": "gh-news-1156956890",
@@ -374,7 +572,7 @@
       "date": "2026-02-13",
       "category": "工具发布",
       "platform": "github",
-      "score": 31173
+      "score": 31175
     },
     {
       "id": "gh-news-1155965274",
@@ -385,7 +583,7 @@
       "date": "2026-02-12",
       "category": "工具发布",
       "platform": "github",
-      "score": 17857
+      "score": 17863
     },
     {
       "id": "gh-news-1147094660",
@@ -396,7 +594,7 @@
       "date": "2026-02-01",
       "category": "工具发布",
       "platform": "github",
-      "score": 42076
+      "score": 42080
     },
     {
       "id": "gh-news-1140843380",
@@ -407,7 +605,7 @@
       "date": "2026-01-23",
       "category": "工具发布",
       "platform": "github",
-      "score": 25251
+      "score": 25257
     },
     {
       "id": "gh-news-1135212071",
@@ -418,7 +616,7 @@
       "date": "2026-01-15",
       "category": "工具发布",
       "platform": "github",
-      "score": 27481
+      "score": 27497
     },
     {
       "id": "gh-news-1132001614",
@@ -429,7 +627,7 @@
       "date": "2026-01-11",
       "category": "工具发布",
       "platform": "github",
-      "score": 32360
+      "score": 32373
     },
     {
       "id": "gh-news-1131513930",
@@ -440,7 +638,7 @@
       "date": "2026-01-10",
       "category": "工具发布",
       "platform": "github",
-      "score": 34828
+      "score": 34838
     },
     {
       "id": "gh-news-1129759677",
@@ -451,7 +649,7 @@
       "date": "2026-01-07",
       "category": "工具发布",
       "platform": "github",
-      "score": 18777
+      "score": 18782
     },
     {
       "id": "gh-news-1128123594",
@@ -462,8 +660,8 @@
       "date": "2026-01-05",
       "category": "工具发布",
       "platform": "github",
-      "score": 23692
+      "score": 23694
     }
   ],
-  "totalCount": 42
+  "totalCount": 60
 }

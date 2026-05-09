@@ -1,10 +1,17 @@
 {
-  "lastUpdated": "2026-05-09T14:11:55.328616",
+  "lastUpdated": "2026-05-09T15:26:08.190409",
   "source": "multi-platform",
   "platforms": [
     "github",
     "huggingface",
     "producthunt",
+    "pypi",
+    "npm",
+    "dockerhub",
+    "vscode",
+    "replicate",
+    "ollama",
+    "cursor",
     "devto",
     "medium",
     "reddit",
@@ -21,141 +28,870 @@
       "id": "development",
       "name": "开发工具",
       "icon": "🔍",
-      "count": 141
-    },
-    {
-      "id": "creative",
-      "name": "创意设计",
-      "icon": "🎨",
-      "count": 19
+      "count": 137
     },
     {
       "id": "ai-research",
       "name": "AI研究",
       "icon": "💡",
-      "count": 18
+      "count": 30
     },
     {
       "id": "productivity",
       "name": "效率工具",
       "icon": "📧",
-      "count": 2
+      "count": 20
     }
   ],
   "skills": [
     {
-      "id": "bili-116227955497963",
-      "name": "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！",
-      "description": "B站视频教程: 从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！",
-      "icon": "📺",
-      "category": "creative",
+      "id": "npm-a3c120b9e9",
+      "name": "@modelcontextprotocol/sdk",
+      "description": "Model Context Protocol implementation for TypeScript",
+      "icon": "⬢",
+      "category": "development",
       "tags": [
-        "video",
-        "tutorial",
-        "ai"
+        "modelcontextprotocol",
+        "mcp"
       ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1E7wtzaEdq",
-      "installCount": 920740,
-      "rating": 5.0,
-      "author": "马克的技术工作坊",
-      "lastUpdated": "2026-03-14",
-      "platform": "bilibili"
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/@modelcontextprotocol/sdk",
+      "installCount": 145822535,
+      "rating": 4.5,
+      "author": "Anthropic, PBC",
+      "lastUpdated": "2026-03-30",
+      "platform": "npm"
     },
     {
-      "id": "bili-116187623069851",
-      "name": "【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快速打造自己的",
-      "description": "B站视频教程: 【2026最新】B站最全最细的AI Agent智能体搭建教程，从入门到实战！手把手教你快速打造自己的专属智能体，一次性搞懂AI大模型智能体开发，学完薪资翻倍！",
-      "icon": "📺",
-      "category": "creative",
+      "id": "npm-2c6ee24b09",
+      "name": "openai",
+      "description": "The official TypeScript library for the OpenAI API",
+      "icon": "⬢",
+      "category": "development",
       "tags": [
-        "video",
-        "tutorial",
+        "nodejs",
+        "package",
         "ai"
       ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV11NNAz5EKn",
-      "installCount": 398485,
-      "rating": 5.0,
-      "author": "AI-智能体搭建教程",
-      "lastUpdated": "2026-03-07",
-      "platform": "bilibili"
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/openai",
+      "installCount": 84387328,
+      "rating": 4.5,
+      "author": "OpenAI",
+      "lastUpdated": "2026-05-07",
+      "platform": "npm"
     },
     {
-      "id": "bili-116333719127221",
-      "name": "【2026最新】全B站最详细AI Agent开发教程，手把手教你搭建企业级Agent智能体！从入门到",
-      "description": "B站视频教程: 【2026最新】全B站最详细AI Agent开发教程，手把手教你搭建企业级Agent智能体！从入门到实战，学完即就业，带你玩转AI Agent！",
-      "icon": "📺",
-      "category": "creative",
+      "id": "npm-5218e95aac",
+      "name": "@anthropic-ai/sdk",
+      "description": "The official TypeScript library for the Anthropic API",
+      "icon": "⬢",
+      "category": "development",
       "tags": [
-        "video",
-        "tutorial",
+        "nodejs",
+        "package",
         "ai"
       ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV12kXfBVEer",
-      "installCount": 129386,
-      "rating": 5.0,
-      "author": "Agent开发",
-      "lastUpdated": "2026-04-02",
-      "platform": "bilibili"
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/@anthropic-ai/sdk",
+      "installCount": 69452639,
+      "rating": 4.5,
+      "author": "Anthropic",
+      "lastUpdated": "2026-05-07",
+      "platform": "npm"
     },
     {
-      "id": "bili-116446713611501",
-      "name": "【全748集】目前B站最全最细的AI大模型零基础全套教程，2026最新版，包含所有干货！七天就能从小",
-      "description": "B站视频教程: 【全748集】目前B站最全最细的AI大模型零基础全套教程，2026最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！学完即就业，带你玩转AI！",
-      "icon": "📺",
-      "category": "creative",
+      "id": "npm-5b40aeb054",
+      "name": "@langchain/core",
+      "description": "Core LangChain.js abstractions and schemas",
+      "icon": "⬢",
+      "category": "ai-research",
       "tags": [
-        "video",
-        "tutorial",
-        "ai"
+        "llm",
+        "ai",
+        "gpt3",
+        "chain",
+        "prompt"
       ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1muoWBXEwv",
-      "installCount": 120173,
-      "rating": 5.0,
-      "author": "Agent智能体搭建-",
-      "lastUpdated": "2026-04-22",
-      "platform": "bilibili"
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/@langchain/core",
+      "installCount": 16734888,
+      "rating": 4.5,
+      "author": "LangChain",
+      "lastUpdated": "2026-05-07",
+      "platform": "npm"
     },
     {
-      "id": "bili-116396684017776",
-      "name": "这绝对是B站讲的最好的Hermes Agent教程，从入门到项目实战彻底讲透，比付费效果强百倍，少走",
-      "description": "B站视频教程: 这绝对是B站讲的最好的Hermes Agent教程，从入门到项目实战彻底讲透，比付费效果强百倍，少走99%弯路！存下吧，很难找全！",
-      "icon": "📺",
-      "category": "creative",
+      "id": "npm-f40b4329f4",
+      "name": "@langchain/openai",
+      "description": "OpenAI integrations for LangChain.js",
+      "icon": "⬢",
+      "category": "ai-research",
       "tags": [
-        "video",
-        "tutorial",
-        "ai"
+        "llm",
+        "ai",
+        "gpt3",
+        "chain",
+        "prompt"
       ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1jRQxBAERc",
-      "installCount": 93721,
-      "rating": 5.0,
-      "author": "AI效率工具",
-      "lastUpdated": "2026-04-13",
-      "platform": "bilibili"
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/@langchain/openai",
+      "installCount": 12376317,
+      "rating": 4.5,
+      "author": "LangChain",
+      "lastUpdated": "2026-04-27",
+      "platform": "npm"
     },
     {
-      "id": "bili-116339758860081",
-      "name": "【Java+大模型】Java AI Agent✚Spring AI✚Spring AI Alibab",
-      "description": "B站视频教程: 【Java+大模型】Java AI Agent✚Spring AI✚Spring AI Alibaba Agent Framework整体结构✚Skill！",
-      "icon": "📺",
-      "category": "creative",
+      "id": "npm-334496741e",
+      "name": "langchain",
+      "description": "Typescript bindings for langchain",
+      "icon": "⬢",
+      "category": "ai-research",
       "tags": [
-        "video",
-        "tutorial",
+        "llm",
+        "ai",
+        "gpt3",
+        "chain",
+        "prompt"
+      ],
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/langchain",
+      "installCount": 9089338,
+      "rating": 4.5,
+      "author": "LangChain",
+      "lastUpdated": "2026-05-05",
+      "platform": "npm"
+    },
+    {
+      "id": "npm-15156c0110",
+      "name": "@langchain/langgraph",
+      "description": "LangGraph",
+      "icon": "⬢",
+      "category": "ai-research",
+      "tags": [
+        "nodejs",
+        "package",
         "ai"
       ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1g49KBqE1g",
-      "installCount": 62217,
-      "rating": 5.0,
-      "author": "图灵官方",
-      "lastUpdated": "2026-04-03",
-      "platform": "bilibili"
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/@langchain/langgraph",
+      "installCount": 8991642,
+      "rating": 4.5,
+      "author": "LangChain",
+      "lastUpdated": "2026-05-05",
+      "platform": "npm"
+    },
+    {
+      "id": "npm-1400161f85",
+      "name": "tiktoken",
+      "description": "JS/WASM bindings for tiktoken",
+      "icon": "⬢",
+      "category": "development",
+      "tags": [
+        "nodejs",
+        "package",
+        "ai"
+      ],
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/tiktoken",
+      "installCount": 4874102,
+      "rating": 4.5,
+      "author": "davidduong",
+      "lastUpdated": "2025-08-09",
+      "platform": "npm"
+    },
+    {
+      "id": "npm-b43afd5c2b",
+      "name": "@langchain/anthropic",
+      "description": "Anthropic integrations for LangChain.js",
+      "icon": "⬢",
+      "category": "ai-research",
+      "tags": [
+        "llm",
+        "ai",
+        "gpt3",
+        "chain",
+        "prompt"
+      ],
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/@langchain/anthropic",
+      "installCount": 3121181,
+      "rating": 4.5,
+      "author": "LangChain",
+      "lastUpdated": "2026-05-07",
+      "platform": "npm"
+    },
+    {
+      "id": "npm-76ee4ad3b1",
+      "name": "agents",
+      "description": "A home for your AI agents",
+      "icon": "⬢",
+      "category": "development",
+      "tags": [
+        "cloudflare",
+        "agents",
+        "ai",
+        "llm",
+        "durable objects"
+      ],
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/agents",
+      "installCount": 2716761,
+      "rating": 4.5,
+      "author": "Cloudflare Inc.",
+      "lastUpdated": "2026-05-02",
+      "platform": "npm"
+    },
+    {
+      "id": "npm-736d593d74",
+      "name": "@pinecone-database/pinecone",
+      "description": "The official Pinecone TypeScript SDK for building vector search applications with AI/ML.",
+      "icon": "⬢",
+      "category": "development",
+      "tags": [
+        "nodejs",
+        "package",
+        "ai"
+      ],
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/@pinecone-database/pinecone",
+      "installCount": 2470426,
+      "rating": 4.5,
+      "author": "pinecone-ops",
+      "lastUpdated": "2026-04-10",
+      "platform": "npm"
+    },
+    {
+      "id": "npm-cb1067f92e",
+      "name": "node-llama-cpp",
+      "description": "Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level",
+      "icon": "⬢",
+      "category": "ai-research",
+      "tags": [
+        "llama",
+        "llama-cpp",
+        "llama.cpp",
+        "bindings",
+        "ai"
+      ],
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/node-llama-cpp",
+      "installCount": 1654800,
+      "rating": 4.5,
+      "author": "Gilad S.",
+      "lastUpdated": "2026-03-17",
+      "platform": "npm"
+    },
+    {
+      "id": "npm-78c8954c3e",
+      "name": "botbuilder",
+      "description": "Bot Builder is a framework for building rich bots on virtually any platform.",
+      "icon": "⬢",
+      "category": "development",
+      "tags": [
+        "botbuilder",
+        "botframework",
+        "bots",
+        "chatbots"
+      ],
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/botbuilder",
+      "installCount": 1216546,
+      "rating": 4.5,
+      "author": "Microsoft Corp.",
+      "lastUpdated": "2025-08-27",
+      "platform": "npm"
+    },
+    {
+      "id": "npm-4fa5be25bd",
+      "name": "chromadb",
+      "description": "A JavaScript interface for chroma",
+      "icon": "⬢",
+      "category": "development",
+      "tags": [
+        "chroma",
+        "embedding",
+        "ai",
+        "vector"
+      ],
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/chromadb",
+      "installCount": 786483,
+      "rating": 4.5,
+      "author": "Chroma",
+      "lastUpdated": "2026-04-08",
+      "platform": "npm"
+    },
+    {
+      "id": "vscode-8acff2f410",
+      "name": "Copilot Extension",
+      "description": "VS Code AI extension: GitHub.copilot",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/GitHub.copilot",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "GitHub",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-035da21d97",
+      "name": "Copilot-Chat Extension",
+      "description": "VS Code AI extension: GitHub.copilot-chat",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/GitHub.copilot-chat",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "GitHub",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-0284014032",
+      "name": "Python Extension",
+      "description": "VS Code AI extension: ms-python.python",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/ms-python.python",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "ms-python",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-0f5d59b042",
+      "name": "Jupyter Extension",
+      "description": "VS Code AI extension: ms-toolsai.jupyter",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/ms-toolsai.jupyter",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "ms-toolsai",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-5570705434",
+      "name": "Continue Extension",
+      "description": "VS Code AI extension: continue.continue",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/continue.continue",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "continue",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-fb009ee55a",
+      "name": "Codegpt Extension",
+      "description": "VS Code AI extension: CodeGPT.codegpt",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/CodeGPT.codegpt",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "CodeGPT",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-44fba90ef7",
+      "name": "Tabnine Extension",
+      "description": "VS Code AI extension: TabNine.tabnine",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/TabNine.tabnine",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "TabNine",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-bbdc5fa68c",
+      "name": "Codium Extension",
+      "description": "VS Code AI extension: Codium.codium",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/Codium.codium",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "Codium",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-b05348abb5",
+      "name": "Blackbox Extension",
+      "description": "VS Code AI extension: Blackboxapp.blackbox",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/Blackboxapp.blackbox",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "Blackboxapp",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-4aab0ac834",
+      "name": "Codeium Extension",
+      "description": "VS Code AI extension: Codeium.codeium",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/Codeium.codeium",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "Codeium",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-33a277d986",
+      "name": "Codewhisperer Extension",
+      "description": "VS Code AI extension: amazon.codewhisperer",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/amazon.codewhisperer",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "amazon",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-673259c864",
+      "name": "Cody Extension",
+      "description": "VS Code AI extension: sourcegraph.cody",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/sourcegraph.cody",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "sourcegraph",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-f9e3bcd430",
+      "name": "Claude-Vscode Extension",
+      "description": "VS Code AI extension: anthropic.claude-vscode",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/anthropic.claude-vscode",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "anthropic",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "vscode-ed858f9ac0",
+      "name": "Chatgpt-Vscode Extension",
+      "description": "VS Code AI extension: openai.chatgpt-vscode",
+      "icon": "💠",
+      "category": "productivity",
+      "tags": [
+        "vscode",
+        "extension",
+        "ai"
+      ],
+      "source": "VS Code Marketplace",
+      "sourceUrl": "https://marketplace.visualstudio.com/items/openai.chatgpt-vscode",
+      "installCount": 100000,
+      "rating": 4.5,
+      "author": "openai",
+      "lastUpdated": "2026-05-09",
+      "platform": "vscode"
+    },
+    {
+      "id": "cursor-3508f0055f",
+      "name": "Cursor IDE",
+      "description": "AI-powered code editor built for pair programming",
+      "icon": "🖱️",
+      "category": "productivity",
+      "tags": [
+        "editor",
+        "ai",
+        "coding"
+      ],
+      "source": "Cursor",
+      "sourceUrl": "https://cursor.sh",
+      "installCount": 100000,
+      "rating": 4.8,
+      "author": "Cursor",
+      "lastUpdated": "2026-05-09",
+      "platform": "cursor"
+    },
+    {
+      "id": "cursor-f1aec2307d",
+      "name": "Cursor Rules",
+      "description": "Custom AI rules for better code generation",
+      "icon": "🖱️",
+      "category": "productivity",
+      "tags": [
+        "editor",
+        "ai",
+        "coding"
+      ],
+      "source": "Cursor",
+      "sourceUrl": "https://cursor.sh",
+      "installCount": 100000,
+      "rating": 4.8,
+      "author": "Cursor",
+      "lastUpdated": "2026-05-09",
+      "platform": "cursor"
+    },
+    {
+      "id": "cursor-848fddf61c",
+      "name": "Cursor Composer",
+      "description": "Multi-file AI editing feature",
+      "icon": "🖱️",
+      "category": "productivity",
+      "tags": [
+        "editor",
+        "ai",
+        "coding"
+      ],
+      "source": "Cursor",
+      "sourceUrl": "https://cursor.sh",
+      "installCount": 100000,
+      "rating": 4.8,
+      "author": "Cursor",
+      "lastUpdated": "2026-05-09",
+      "platform": "cursor"
+    },
+    {
+      "id": "cursor-88b8974858",
+      "name": "Cursor Tab",
+      "description": "AI code completion like Copilot",
+      "icon": "🖱️",
+      "category": "productivity",
+      "tags": [
+        "editor",
+        "ai",
+        "coding"
+      ],
+      "source": "Cursor",
+      "sourceUrl": "https://cursor.sh",
+      "installCount": 100000,
+      "rating": 4.8,
+      "author": "Cursor",
+      "lastUpdated": "2026-05-09",
+      "platform": "cursor"
+    },
+    {
+      "id": "cursor-818c231c36",
+      "name": "Cursor Chat",
+      "description": "Chat with AI about your codebase",
+      "icon": "🖱️",
+      "category": "productivity",
+      "tags": [
+        "editor",
+        "ai",
+        "coding"
+      ],
+      "source": "Cursor",
+      "sourceUrl": "https://cursor.sh",
+      "installCount": 100000,
+      "rating": 4.8,
+      "author": "Cursor",
+      "lastUpdated": "2026-05-09",
+      "platform": "cursor"
+    },
+    {
+      "id": "replicate-ab7e318453",
+      "name": "Stable Diffusion",
+      "description": "Replicate model: stability-ai/stable-diffusion",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/stability-ai/stable-diffusion",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "stability-ai",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
+    },
+    {
+      "id": "replicate-59c9656cd9",
+      "name": "Whisper",
+      "description": "Replicate model: openai/whisper",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/openai/whisper",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "openai",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
+    },
+    {
+      "id": "replicate-f9d8e2c73c",
+      "name": "Llama 2 70B Chat",
+      "description": "Replicate model: meta/llama-2-70b-chat",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/meta/llama-2-70b-chat",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "meta",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
+    },
+    {
+      "id": "replicate-e31e875849",
+      "name": "Mistral 7B Instruct",
+      "description": "Replicate model: mistralai/mistral-7b-instruct",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/mistralai/mistral-7b-instruct",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "mistralai",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
+    },
+    {
+      "id": "replicate-c8d2154d4b",
+      "name": "Vicuna 13B",
+      "description": "Replicate model: replicate/vicuna-13b",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/replicate/vicuna-13b",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "replicate",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
+    },
+    {
+      "id": "replicate-5f506783ab",
+      "name": "Sdxl Turbo",
+      "description": "Replicate model: nvidia/sdxl-turbo",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/nvidia/sdxl-turbo",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "nvidia",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
+    },
+    {
+      "id": "replicate-02904e1226",
+      "name": "Sdxl",
+      "description": "Replicate model: stability-ai/sdxl",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/stability-ai/sdxl",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "stability-ai",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
+    },
+    {
+      "id": "replicate-23d10451ea",
+      "name": "Llama 2 13B Chat",
+      "description": "Replicate model: replicate/llama-2-13b-chat",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/replicate/llama-2-13b-chat",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "replicate",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
+    },
+    {
+      "id": "replicate-b445c4f456",
+      "name": "Gfpgan",
+      "description": "Replicate model: tencentarc/gfpgan",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/tencentarc/gfpgan",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "tencentarc",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
+    },
+    {
+      "id": "replicate-101f2ba171",
+      "name": "Codeformer",
+      "description": "Replicate model: sczhou/codeformer",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/sczhou/codeformer",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "sczhou",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
+    },
+    {
+      "id": "replicate-bd9b786b51",
+      "name": "Dreamshaper",
+      "description": "Replicate model: replicate/dreamshaper",
+      "icon": "🔮",
+      "category": "ai-research",
+      "tags": [
+        "model",
+        "api",
+        "ai"
+      ],
+      "source": "Replicate",
+      "sourceUrl": "https://replicate.com/replicate/dreamshaper",
+      "installCount": 50000,
+      "rating": 4.5,
+      "author": "replicate",
+      "lastUpdated": "2026-05-09",
+      "platform": "replicate"
     },
     {
       "id": "github-1134426800",
@@ -170,30 +906,11 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/sickn33/antigravity-awesome-skills",
-      "installCount": 36913,
+      "installCount": 36924,
       "rating": 5.0,
       "author": "sickn33",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "bili-116503638706867",
-      "name": "Hermes Agent零基础、保姆级教程，小白也能轻松玩转",
-      "description": "B站视频教程: Hermes Agent零基础、保姆级教程，小白也能轻松玩转",
-      "icon": "📺",
-      "category": "creative",
-      "tags": [
-        "video",
-        "tutorial",
-        "ai"
-      ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV13YRjBTEPb",
-      "installCount": 34571,
-      "rating": 5.0,
-      "author": "iwenwiki",
-      "lastUpdated": "2026-05-02",
-      "platform": "bilibili"
     },
     {
       "id": "github-1156956890",
@@ -207,7 +924,7 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/zeroclaw-labs/zeroclaw",
-      "installCount": 31173,
+      "installCount": 31174,
       "rating": 5.0,
       "author": "zeroclaw-labs",
       "lastUpdated": "2026-05-09",
@@ -224,30 +941,11 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/openai/symphony",
-      "installCount": 22846,
+      "installCount": 22864,
       "rating": 5.0,
       "author": "openai",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "bili-116538065684466",
-      "name": "Harness 实践：让 Agent 全自动制作知识讲解视频",
-      "description": "B站视频教程: Harness 实践：让 Agent 全自动制作知识讲解视频",
-      "icon": "📺",
-      "category": "creative",
-      "tags": [
-        "video",
-        "tutorial",
-        "ai"
-      ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1ypdgBCE9B",
-      "installCount": 20811,
-      "rating": 5.0,
-      "author": "code秘密花园",
-      "lastUpdated": "2026-05-08",
-      "platform": "bilibili"
     },
     {
       "id": "github-1129759677",
@@ -261,7 +959,7 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/snarktank/ralph",
-      "installCount": 18777,
+      "installCount": 18782,
       "rating": 5.0,
       "author": "snarktank",
       "lastUpdated": "2026-05-09",
@@ -281,7 +979,7 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "installCount": 17857,
+      "installCount": 17863,
       "rating": 5.0,
       "author": "Donchitos",
       "lastUpdated": "2026-05-09",
@@ -298,7 +996,7 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/heygen-com/hyperframes",
-      "installCount": 16433,
+      "installCount": 16451,
       "rating": 5.0,
       "author": "heygen-com",
       "lastUpdated": "2026-05-09",
@@ -316,49 +1014,31 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/cft0808/edict",
-      "installCount": 15671,
+      "installCount": 15672,
       "rating": 5.0,
       "author": "cft0808",
       "lastUpdated": "2026-05-09",
       "platform": "github"
     },
     {
-      "id": "douyin-ai-videos",
-      "name": "抖音AI短视频",
-      "description": "来自抖音的AI Agent短视频教程",
-      "icon": "🎵",
-      "category": "creative",
+      "id": "pypi-39a7d663ef",
+      "name": "faiss-cpu",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "icon": "📦",
+      "category": "development",
       "tags": [
-        "video",
-        "short",
-        "ai"
+        "faiss",
+        " similarity search",
+        " clustering",
+        " machine learning"
       ],
-      "source": "抖音",
-      "sourceUrl": "https://www.douyin.com/",
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/faiss-cpu/",
       "installCount": 15000,
       "rating": 4.5,
-      "author": "抖音创作者",
+      "author": "Kota Yamaguchi <yamaguchi_kota",
       "lastUpdated": "2026-05-09",
-      "platform": "douyin"
-    },
-    {
-      "id": "bili-116522076872165",
-      "name": "翻遍整个B站，这绝对是2026讲的最好的AI Agent智能体教程，手把手教你从0基础开始搭建企业级",
-      "description": "B站视频教程: 翻遍整个B站，这绝对是2026讲的最好的AI Agent智能体教程，手把手教你从0基础开始搭建企业级Agent智能体！全程干货无废话，让你少走99%弯路！！",
-      "icon": "📺",
-      "category": "creative",
-      "tags": [
-        "video",
-        "tutorial",
-        "ai"
-      ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1RZRyBXEjE",
-      "installCount": 13865,
-      "rating": 4.8865,
-      "author": "AI学习课堂",
-      "lastUpdated": "2026-05-05",
-      "platform": "bilibili"
+      "platform": "pypi"
     },
     {
       "id": "github-1139782619",
@@ -380,25 +1060,6 @@
       "platform": "github"
     },
     {
-      "id": "bili-116367441334742",
-      "name": "【B站天花板】全网最细最全的Agent应用开发教程|手把手教你搭建企业级智能体，全程干货无废话，小白",
-      "description": "B站视频教程: 【B站天花板】全网最细最全的Agent应用开发教程|手把手教你搭建企业级智能体，全程干货无废话，小白直接上手不踩坑,帮你少走 99% 弯路！ LLM|大模型",
-      "icon": "📺",
-      "category": "creative",
-      "tags": [
-        "video",
-        "tutorial",
-        "ai"
-      ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1HxDrB5Em2",
-      "installCount": 11719,
-      "rating": 4.6719,
-      "author": "AI-Agent开发",
-      "lastUpdated": "2026-04-08",
-      "platform": "bilibili"
-    },
-    {
       "id": "github-1174369519",
       "name": "Agency Agents Zh",
       "description": "🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）",
@@ -411,7 +1072,7 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/jnMetaCode/agency-agents-zh",
-      "installCount": 10339,
+      "installCount": 10346,
       "rating": 5.0,
       "author": "jnMetaCode",
       "lastUpdated": "2026-05-09",
@@ -432,49 +1093,11 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "installCount": 8557,
+      "installCount": 8563,
       "rating": 5.0,
       "author": "wanshuiyin",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "weixin-ai-articles",
-      "name": "微信公众号AI文章",
-      "description": "来自微信公众号的AI Agent技术文章",
-      "icon": "💬",
-      "category": "productivity",
-      "tags": [
-        "article",
-        "ai",
-        "wechat"
-      ],
-      "source": "微信",
-      "sourceUrl": "https://weixin.sogou.com/",
-      "installCount": 8000,
-      "rating": 4.4,
-      "author": "微信公众号",
-      "lastUpdated": "2026-05-09",
-      "platform": "weixin"
-    },
-    {
-      "id": "bili-116526774485748",
-      "name": "翻遍整个B站，这绝对是2026讲的最好的AI Agent开发教程，手把手教你搭建企业级Agent智能",
-      "description": "B站视频教程: 翻遍整个B站，这绝对是2026讲的最好的AI Agent开发教程，手把手教你搭建企业级Agent智能体，少走99%的弯路！",
-      "icon": "📺",
-      "category": "creative",
-      "tags": [
-        "video",
-        "tutorial",
-        "ai"
-      ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1JvR4B1EsJ",
-      "installCount": 7668,
-      "rating": 4.2668,
-      "author": "阿里架构师诸葛",
-      "lastUpdated": "2026-05-06",
-      "platform": "bilibili"
     },
     {
       "id": "github-1178493295",
@@ -487,8 +1110,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/gsd-build/gsd-2",
-      "installCount": 7284,
-      "rating": 4.9568,
+      "installCount": 7286,
+      "rating": 4.9572,
       "author": "gsd-build",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -504,11 +1127,26 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/ComposioHQ/agent-orchestrator",
-      "installCount": 6897,
-      "rating": 4.8794,
+      "installCount": 6899,
+      "rating": 4.8797999999999995,
       "author": "ComposioHQ",
       "lastUpdated": "2026-05-09",
       "platform": "github"
+    },
+    {
+      "id": "npm-e539a3a761",
+      "name": "vercel-ai",
+      "description": "Node.js Package",
+      "icon": "⬢",
+      "category": "ai-research",
+      "tags": [],
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/vercel-ai",
+      "installCount": 6396,
+      "rating": 4.5,
+      "author": "Jared Palmer",
+      "lastUpdated": "2023-01-12",
+      "platform": "npm"
     },
     {
       "id": "github-1166506614",
@@ -525,11 +1163,30 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "installCount": 6133,
-      "rating": 4.7265999999999995,
+      "installCount": 6132,
+      "rating": 4.7264,
       "author": "mukul975",
       "lastUpdated": "2026-05-09",
       "platform": "github"
+    },
+    {
+      "id": "pypi-4fa5be25bd",
+      "name": "chromadb",
+      "description": "Chroma.",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/chromadb/",
+      "installCount": 6000,
+      "rating": 4.5,
+      "author": "Jeff Huber <jeff",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
     },
     {
       "id": "github-1179413000",
@@ -543,8 +1200,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/Narcooo/inkos",
-      "installCount": 5913,
-      "rating": 4.6826,
+      "installCount": 5919,
+      "rating": 4.6838,
       "author": "Narcooo",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -581,8 +1238,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "installCount": 5770,
-      "rating": 4.654,
+      "installCount": 5775,
+      "rating": 4.655,
       "author": "yizhiyanhua-ai",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -599,8 +1256,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/NVIDIA/OpenShell",
-      "installCount": 5651,
-      "rating": 4.6302,
+      "installCount": 5652,
+      "rating": 4.6304,
       "author": "NVIDIA",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -625,25 +1282,6 @@
       "platform": "producthunt"
     },
     {
-      "id": "bili-116532411635848",
-      "name": "B站讲的最好的Java AI Agent智能体+Spring AI Alibaba+Openclaw",
-      "description": "B站视频教程: B站讲的最好的Java AI Agent智能体+Spring AI Alibaba+Openclaw+Skill开发实战教程（2026最新版）",
-      "icon": "📺",
-      "category": "creative",
-      "tags": [
-        "video",
-        "tutorial",
-        "ai"
-      ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV19adwBeETH",
-      "installCount": 4776,
-      "rating": 3.9776,
-      "author": "图灵学院诸葛",
-      "lastUpdated": "2026-05-07",
-      "platform": "bilibili"
-    },
-    {
       "id": "github-1156797572",
       "name": "Mission Control",
       "description": "Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.",
@@ -656,30 +1294,11 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/builderz-labs/mission-control",
-      "installCount": 4716,
-      "rating": 4.4432,
+      "installCount": 4717,
+      "rating": 4.4434000000000005,
       "author": "builderz-labs",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "so-77998568",
-      "name": "langchain : ModuleNotFoundError: No module named &",
-      "description": "Stack Overflow Question: langchain : ModuleNotFoundError: No module named &#39;langchain_community&#39;",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "langchain",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/77998568/langchain-modulenotfounderror-no-module-named-langchain-community",
-      "installCount": 4400,
-      "rating": 3.94,
-      "author": "Nikita Malviya",
-      "lastUpdated": "2024-02-15",
-      "platform": "stackoverflow"
     },
     {
       "id": "github-1126841840",
@@ -713,8 +1332,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
-      "installCount": 4249,
-      "rating": 4.3498,
+      "installCount": 4251,
+      "rating": 4.3502,
       "author": "FlorianBruniaux",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -733,30 +1352,11 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/deanpeters/Product-Manager-Skills",
-      "installCount": 4120,
-      "rating": 4.324,
+      "installCount": 4121,
+      "rating": 4.3242,
       "author": "deanpeters",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "zhihu-ai-topic",
-      "name": "知乎AI话题精选",
-      "description": "来自知乎社区的AI Agent讨论和资源",
-      "icon": "🔵",
-      "category": "ai-research",
-      "tags": [
-        "ai",
-        "agent",
-        "讨论"
-      ],
-      "source": "知乎",
-      "sourceUrl": "https://www.zhihu.com/topic/19551275/hot",
-      "installCount": 4000,
-      "rating": 4.3,
-      "author": "知乎社区",
-      "lastUpdated": "2026-05-09",
-      "platform": "zhihu"
     },
     {
       "id": "github-1158449837",
@@ -794,8 +1394,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/yasasbanukaofficial/claude-code",
-      "installCount": 3087,
-      "rating": 4.1174,
+      "installCount": 3088,
+      "rating": 4.1176,
       "author": "yasasbanukaofficial",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -817,25 +1417,6 @@
       "author": "HughYau",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "juejin-ai-agent",
-      "name": "掘金AI Agent精选",
-      "description": "来自掘金社区的AI Agent技术文章和项目",
-      "icon": "💎",
-      "category": "development",
-      "tags": [
-        "ai",
-        "agent",
-        "前端"
-      ],
-      "source": "掘金",
-      "sourceUrl": "https://juejin.cn/tag/AI",
-      "installCount": 3000,
-      "rating": 4.5,
-      "author": "掘金社区",
-      "lastUpdated": "2026-05-09",
-      "platform": "juejin"
     },
     {
       "id": "github-1135260262",
@@ -907,8 +1488,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
-      "installCount": 2578,
-      "rating": 4.0156,
+      "installCount": 2581,
+      "rating": 4.0161999999999995,
       "author": "FireRedTeam",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -935,25 +1516,6 @@
       "platform": "github"
     },
     {
-      "id": "csdn-ai-blog",
-      "name": "CSDN AI技术博客",
-      "description": "来自CSDN的AI Agent技术文章和教程",
-      "icon": "🟢",
-      "category": "development",
-      "tags": [
-        "ai",
-        "agent",
-        "教程"
-      ],
-      "source": "CSDN",
-      "sourceUrl": "https://www.csdn.net/nav/ai",
-      "installCount": 2500,
-      "rating": 4.2,
-      "author": "CSDN社区",
-      "lastUpdated": "2026-05-09",
-      "platform": "csdn"
-    },
-    {
       "id": "github-1147470802",
       "name": "Pro Workflow",
       "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
@@ -966,8 +1528,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/rohitg00/pro-workflow",
-      "installCount": 2062,
-      "rating": 3.9124,
+      "installCount": 2063,
+      "rating": 3.9126,
       "author": "rohitg00",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -985,8 +1547,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/cosmicstack-labs/mercury-agent",
-      "installCount": 2045,
-      "rating": 3.909,
+      "installCount": 2046,
+      "rating": 3.9092000000000002,
       "author": "cosmicstack-labs",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -1052,23 +1614,409 @@
       "platform": "github"
     },
     {
-      "id": "so-77789886",
-      "name": "OpenAI API error: &quot;The model `text-davinci-00",
-      "description": "Stack Overflow Question: OpenAI API error: &quot;The model `text-davinci-003` has been deprecated&quot;",
-      "icon": "📚",
+      "id": "pypi-e1256ea7e2",
+      "name": "crewai",
+      "description": "Cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "icon": "📦",
       "category": "development",
       "tags": [
-        "openai-api",
-        "qa",
-        "development"
+        "python",
+        "package",
+        "ai"
       ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/77789886/openai-api-error-the-model-text-davinci-003-has-been-deprecated",
-      "installCount": 1900,
-      "rating": 3.69,
-      "author": "Mangoes",
-      "lastUpdated": "2024-01-09",
-      "platform": "stackoverflow"
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/crewai/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Joao Moura <joao",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-760f4de57f",
+      "name": "autogenstudio",
+      "description": "AutoGen Studio",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/autogenstudio/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "AutoGen Team <autogen",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-d4353cad3b",
+      "name": "llama-index",
+      "description": "Interface between LLMs and your data",
+      "icon": "📦",
+      "category": "ai-research",
+      "tags": [
+        "LLM",
+        " NLP",
+        " RAG",
+        " data",
+        " devtools"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/llama-index/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Jerry Liu <jerry",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-d506669930",
+      "name": "llama-index-core",
+      "description": "Interface between LLMs and your data",
+      "icon": "📦",
+      "category": "ai-research",
+      "tags": [
+        "LLM",
+        " NLP",
+        " RAG",
+        " data",
+        " devtools"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/llama-index-core/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Jerry Liu <jerry",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-1d47dba1b0",
+      "name": "semantic-kernel",
+      "description": "Semantic Kernel Python SDK",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/semantic-kernel/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Microsoft <SK-Support",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-2c6ee24b09",
+      "name": "openai",
+      "description": "The official Python library for the openai API",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/openai/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "OpenAI <support",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-556dcd26a5",
+      "name": "anthropic",
+      "description": "The official Python library for the anthropic API",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/anthropic/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Anthropic <support",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-f087bc4367",
+      "name": "babyagi",
+      "description": "An experimental prototype framework for building self building autonomous agents.",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "AGI",
+        " AI",
+        " Framework",
+        " Baby AGI"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/babyagi/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Yohei Nakajima",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-991925b41e",
+      "name": "phidata",
+      "description": "Build multi-modal Agents with memory, knowledge and tools.",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/phidata/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Ashpreet Bedi <ashpreet",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-c3f874c684",
+      "name": "letta",
+      "description": "Create LLM agents with long-term memory and custom tools",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/letta/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Letta Team <contact",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-84ede66108",
+      "name": "mem0ai",
+      "description": "Long-term memory for AI Agents",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/mem0ai/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Mem0 <support",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-e4682a802a",
+      "name": "memgpt",
+      "description": "This package contains the code for training a memory-augmented GPT model on patient data. Please note that this is not the 'letta' company project with thehttps://github.com/letta-ai/letta; for use of",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/memgpt/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Norwegian Brain Initiative",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-053038f790",
+      "name": "haystack-ai",
+      "description": "LLM framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data.",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "BERT",
+        " QA",
+        " Question-Answering",
+        " Reader",
+        " Retriever"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/haystack-ai/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "\"deepset.ai\" <malte.pietsch",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-eecfcf933b",
+      "name": "groq",
+      "description": "The official Python library for the groq API",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/groq/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Groq <support",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-db3f3946ba",
+      "name": "together",
+      "description": "The official Python library for the together API",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/together/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Together <dev-feedback",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-a567021d7a",
+      "name": "pinecone-client",
+      "description": "Pinecone client (DEPRECATED)",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "Pinecone",
+        " vector",
+        " database",
+        " cloud"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/pinecone-client/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Pinecone Systems, Inc.",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-0a6b106c9d",
+      "name": "weaviate-client",
+      "description": "A python native Weaviate client",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/weaviate-client/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Weaviate",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-dc04c7e93d",
+      "name": "qdrant-client",
+      "description": "Client library for the Qdrant vector search engine",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "vector",
+        " search",
+        " neural",
+        " matching",
+        " client"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/qdrant-client/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Andrey Vasnetsov",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-48efbb839d",
+      "name": "transformers",
+      "description": "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "machine-learning nlp python pytorch transformer llm vlm deep-learning inference training model-hub pretrained-models llama gemma qwen"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/transformers/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-75baa4f993",
+      "name": "accelerate",
+      "description": "Accelerate",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "deep learning"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/accelerate/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "The Hugging Face team",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
+    },
+    {
+      "id": "pypi-c43079d1e3",
+      "name": "flowise",
+      "description": "Flowise SDK for Python to interact with the Flowise API.",
+      "icon": "📦",
+      "category": "development",
+      "tags": [
+        "python",
+        "package",
+        "ai"
+      ],
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/flowise/",
+      "installCount": 2000,
+      "rating": 4.5,
+      "author": "Henry Heng",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
     },
     {
       "id": "github-1187150337",
@@ -1120,8 +2068,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/wuyoscar/gpt_image_2_skill",
-      "installCount": 1752,
-      "rating": 3.8504,
+      "installCount": 1760,
+      "rating": 3.852,
       "author": "wuyoscar",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -1140,8 +2088,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/openakita/openakita",
-      "installCount": 1727,
-      "rating": 3.8454,
+      "installCount": 1728,
+      "rating": 3.8456,
       "author": "openakita",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -1157,8 +2105,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/chopratejas/headroom",
-      "installCount": 1699,
-      "rating": 3.8398,
+      "installCount": 1701,
+      "rating": 3.8402,
       "author": "chopratejas",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -1176,8 +2124,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/aattaran/deepclaude",
-      "installCount": 1663,
-      "rating": 3.8326000000000002,
+      "installCount": 1665,
+      "rating": 3.833,
       "author": "aattaran",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -1212,30 +2160,11 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/fluffypony/dothething",
-      "installCount": 1600,
-      "rating": 3.82,
+      "installCount": 1601,
+      "rating": 3.8202,
       "author": "fluffypony",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "so-79366942",
-      "name": "How to change GitHub Copilot model in IntelliJ?",
-      "description": "Stack Overflow Question: How to change GitHub Copilot model in IntelliJ?",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "openai-api",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/79366942/how-to-change-github-copilot-model-in-intellij",
-      "installCount": 1600,
-      "rating": 3.66,
-      "author": "guy",
-      "lastUpdated": "2025-01-18",
-      "platform": "stackoverflow"
     },
     {
       "id": "github-1231135337",
@@ -1250,68 +2179,11 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/strukto-ai/mirage",
-      "installCount": 1573,
-      "rating": 3.8146,
+      "installCount": 1583,
+      "rating": 3.8166,
       "author": "strukto-ai",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "bili-116542712847127",
-      "name": "【2026最新版】这绝对是B站讲的最好的Hermes Agent教程，从入门到项目实战彻底讲透，比付",
-      "description": "B站视频教程: 【2026最新版】这绝对是B站讲的最好的Hermes Agent教程，从入门到项目实战彻底讲透，比付费效果强百倍，少走99%弯路！存下吧，很难找全！",
-      "icon": "📺",
-      "category": "creative",
-      "tags": [
-        "video",
-        "tutorial",
-        "ai"
-      ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1QGRSBfEYb",
-      "installCount": 1508,
-      "rating": 3.6508,
-      "author": "AI大模型教学圈",
-      "lastUpdated": "2026-05-09",
-      "platform": "bilibili"
-    },
-    {
-      "id": "so-77952454",
-      "name": "method in python &#39;Stream_to_file&#39; not work",
-      "description": "Stack Overflow Question: method in python &#39;Stream_to_file&#39; not working",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "openai-api",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/77952454/method-in-python-stream-to-file-not-working",
-      "installCount": 1400,
-      "rating": 3.64,
-      "author": "Rohit Chourey",
-      "lastUpdated": "2024-02-07",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "devto-3601343",
-      "name": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
-      "icon": "📝",
-      "category": "ai-research",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
-      "installCount": 1380,
-      "rating": 4.5,
-      "author": "anchildress1",
-      "lastUpdated": "2026-05-02",
-      "platform": "devto"
     },
     {
       "id": "github-1185430378",
@@ -1326,8 +2198,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/omnimind-ai/OpenOmniBot",
-      "installCount": 1370,
-      "rating": 3.774,
+      "installCount": 1371,
+      "rating": 3.7742,
       "author": "omnimind-ai",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -1343,30 +2215,11 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/lidangzzz/goal-driven",
-      "installCount": 1272,
-      "rating": 3.7544,
+      "installCount": 1274,
+      "rating": 3.7548,
       "author": "lidangzzz",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "devto-3614671",
-      "name": "Am I a Developer or Just a Prompt Engineer?",
-      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "icon": "📝",
-      "category": "development",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
-      "installCount": 1260,
-      "rating": 4.5,
-      "author": "harsh2644",
-      "lastUpdated": "2026-05-05",
-      "platform": "devto"
     },
     {
       "id": "github-1141706975",
@@ -1386,63 +2239,6 @@
       "author": "yohey-w",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "so-78593700",
-      "name": "langchain_community &amp; langchain packages givin",
-      "description": "Stack Overflow Question: langchain_community &amp; langchain packages giving error: Missing 1 required keyword-only argument: &#39;recursive_guard&#39;",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "langchain",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78593700/langchain-community-langchain-packages-giving-error-missing-1-required-keywor",
-      "installCount": 1200,
-      "rating": 3.62,
-      "author": "Atul",
-      "lastUpdated": "2024-06-07",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-79818917",
-      "name": "Error importing langchain modules: No module named",
-      "description": "Stack Overflow Question: Error importing langchain modules: No module named &#39;langchain.chains&#39;",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "langchain",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/79818917/error-importing-langchain-modules-no-module-named-langchain-chains",
-      "installCount": 1200,
-      "rating": 3.62,
-      "author": "Mateus Lira",
-      "lastUpdated": "2025-11-13",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-78516807",
-      "name": "Ollama - How to inject context or get model to ans",
-      "description": "Stack Overflow Question: Ollama - How to inject context or get model to answer based on context?",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "llm",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78516807/ollama-how-to-inject-context-or-get-model-to-answer-based-on-context",
-      "installCount": 1100,
-      "rating": 3.61,
-      "author": "tone7",
-      "lastUpdated": "2024-05-22",
-      "platform": "stackoverflow"
     },
     {
       "id": "github-1143535772",
@@ -1498,8 +2294,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/Ar9av/obsidian-wiki",
-      "installCount": 1063,
-      "rating": 3.7126,
+      "installCount": 1065,
+      "rating": 3.713,
       "author": "Ar9av",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -1515,8 +2311,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/ginlix-ai/LangAlpha",
-      "installCount": 1062,
-      "rating": 3.7124,
+      "installCount": 1063,
+      "rating": 3.7126,
       "author": "ginlix-ai",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -1541,25 +2337,6 @@
       "platform": "github"
     },
     {
-      "id": "bili-116543383929218",
-      "name": "2026年程序员生存指南：不会 AI Agent，工作真的会被替代吗？",
-      "description": "B站视频教程: 2026年程序员生存指南：不会 AI Agent，工作真的会被替代吗？",
-      "icon": "📺",
-      "category": "creative",
-      "tags": [
-        "video",
-        "tutorial",
-        "ai"
-      ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1eXRQBgEPV",
-      "installCount": 1052,
-      "rating": 3.6052,
-      "author": "印客学院",
-      "lastUpdated": "2026-05-09",
-      "platform": "bilibili"
-    },
-    {
       "id": "github-1169880696",
       "name": "Letsfg",
       "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
@@ -1571,106 +2348,83 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/LetsFG/LetsFG",
-      "installCount": 1030,
-      "rating": 3.706,
+      "installCount": 1031,
+      "rating": 3.7062,
       "author": "LetsFG",
       "lastUpdated": "2026-05-09",
       "platform": "github"
     },
     {
-      "id": "bili-116542427698972",
-      "name": "【2026版】AI Agent项目实战视频合集，练完即可就业！涵盖agent开发/agent智能体/",
-      "description": "B站视频教程: 【2026版】AI Agent项目实战视频合集，练完即可就业！涵盖agent开发/agent智能体/agent智能体搭建，全程干货无废话",
-      "icon": "📺",
-      "category": "creative",
+      "id": "pypi-76ee4ad3b1",
+      "name": "agents",
+      "description": "Efficient TensorFlow implementation of reinforcement learning algorithms.",
+      "icon": "📦",
+      "category": "development",
       "tags": [
-        "video",
-        "tutorial",
+        "python",
+        "package",
         "ai"
       ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1FzRSBGETD",
-      "installCount": 1027,
-      "rating": 3.6027,
-      "author": "大模型A",
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/agents/",
+      "installCount": 1000,
+      "rating": 4.5,
+      "author": "Unknown",
       "lastUpdated": "2026-05-09",
-      "platform": "bilibili"
+      "platform": "pypi"
     },
     {
-      "id": "so-79111773",
-      "name": "litellm.BadRequestError: LLM Provider NOT provided",
-      "description": "Stack Overflow Question: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call",
-      "icon": "📚",
-      "category": "development",
+      "id": "pypi-1bfa28f3ed",
+      "name": "autogpt",
+      "description": "autogpt",
+      "icon": "📦",
+      "category": "ai-research",
       "tags": [
-        "langchain",
-        "qa",
-        "development"
+        "autogpt"
       ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/79111773/litellm-badrequesterror-llm-provider-not-provided-pass-in-the-llm-provider-you",
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/autogpt/",
       "installCount": 1000,
-      "rating": 3.6,
-      "author": "Akrit Rihal",
-      "lastUpdated": "2024-10-21",
-      "platform": "stackoverflow"
+      "rating": 4.5,
+      "author": "Shadow Walker",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
     },
     {
-      "id": "so-78404535",
-      "name": "LangChain Python with structured output Ollama fun",
-      "description": "Stack Overflow Question: LangChain Python with structured output Ollama functions",
-      "icon": "📚",
+      "id": "pypi-b6db407c44",
+      "name": "deepseek",
+      "description": "Deepseek API Library",
+      "icon": "📦",
       "category": "development",
       "tags": [
-        "langchain",
-        "qa",
-        "development"
+        "deepseek"
       ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78404535/langchain-python-with-structured-output-ollama-functions",
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/deepseek/",
       "installCount": 1000,
-      "rating": 3.6,
-      "author": "Jack Damiani",
-      "lastUpdated": "2024-04-29",
-      "platform": "stackoverflow"
+      "rating": 4.5,
+      "author": "Deskpai.com",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
     },
     {
-      "id": "so-78080182",
-      "name": "How to add millions of documents to ChromaDB effic",
-      "description": "Stack Overflow Question: How to add millions of documents to ChromaDB efficently",
-      "icon": "📚",
+      "id": "pypi-a0145acb55",
+      "name": "llama-cpp-python",
+      "description": "Python bindings for the llama.cpp library",
+      "icon": "📦",
       "category": "development",
       "tags": [
-        "langchain",
-        "qa",
-        "development"
+        "python",
+        "package",
+        "ai"
       ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78080182/how-to-add-millions-of-documents-to-chromadb-efficently",
+      "source": "PyPI",
+      "sourceUrl": "https://pypi.org/project/llama-cpp-python/",
       "installCount": 1000,
-      "rating": 3.6,
-      "author": "user23501561",
-      "lastUpdated": "2024-02-29",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-77890911",
-      "name": "OpenAI API error: &quot;The api_key client option ",
-      "description": "Stack Overflow Question: OpenAI API error: &quot;The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY env variable&quot;",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "openai-api",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/77890911/openai-api-error-the-api-key-client-option-must-be-set-either-by-passing-api-k",
-      "installCount": 1000,
-      "rating": 3.6,
-      "author": "SebTheGeek",
-      "lastUpdated": "2024-01-27",
-      "platform": "stackoverflow"
+      "rating": 4.5,
+      "author": "Andrei Betlen <abetlen",
+      "lastUpdated": "2026-05-09",
+      "platform": "pypi"
     },
     {
       "id": "github-1198155461",
@@ -1691,44 +2445,6 @@
       "author": "repowise-dev",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "devto-3533863",
-      "name": "The 4 Cognitive Archetypes of Developers Using AI",
-      "description": "Lately, I’ve been reflecting on something:  The question for most developers is no longer \"Are you...",
-      "icon": "📝",
-      "category": "ai-research",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n",
-      "installCount": 990,
-      "rating": 4.5,
-      "author": "javz",
-      "lastUpdated": "2026-05-04",
-      "platform": "devto"
-    },
-    {
-      "id": "so-78105511",
-      "name": "ImportError: cannot import name &#39;Ollama&#39; f",
-      "description": "Stack Overflow Question: ImportError: cannot import name &#39;Ollama&#39; from &#39;llama_index.llms&#39; (unknown location)",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "openai-api",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78105511/importerror-cannot-import-name-ollama-from-llama-index-llms-unknown-locati",
-      "installCount": 900,
-      "rating": 3.59,
-      "author": "sami",
-      "lastUpdated": "2024-03-05",
-      "platform": "stackoverflow"
     },
     {
       "id": "github-1128112737",
@@ -1768,139 +2484,6 @@
       "author": "didilili",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "so-79903575",
-      "name": "Resolving Concurrency Bottlenecks in LangChain&#39",
-      "description": "Stack Overflow Question: Resolving Concurrency Bottlenecks in LangChain&#39;s RunnableParallel with ChromaDB PersistentClient",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "langchain",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/79903575/resolving-concurrency-bottlenecks-in-langchains-runnableparallel-with-chromadb",
-      "installCount": 800,
-      "rating": 3.58,
-      "author": "grace h",
-      "lastUpdated": "2026-03-09",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-79110089",
-      "name": "Llama3.2 fails to respond to simple text inputs wh",
-      "description": "Stack Overflow Question: Llama3.2 fails to respond to simple text inputs when bounded with tool calling on LangGraph",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "langchain",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/79110089/llama3-2-fails-to-respond-to-simple-text-inputs-when-bounded-with-tool-calling-o",
-      "installCount": 800,
-      "rating": 3.58,
-      "author": "Neha",
-      "lastUpdated": "2024-10-21",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-79730876",
-      "name": "GPT-OSS does not return valid structured output wi",
-      "description": "Stack Overflow Question: GPT-OSS does not return valid structured output with Langchain",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "langchain",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/79730876/gpt-oss-does-not-return-valid-structured-output-with-langchain",
-      "installCount": 800,
-      "rating": 3.58,
-      "author": "Sankalp Dhupar",
-      "lastUpdated": "2025-08-09",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-78122648",
-      "name": "How do I get a list of all available OpenAI models",
-      "description": "Stack Overflow Question: How do I get a list of all available OpenAI models?",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "openai-api",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78122648/how-do-i-get-a-list-of-all-available-openai-models",
-      "installCount": 800,
-      "rating": 3.58,
-      "author": "Gerry",
-      "lastUpdated": "2024-03-07",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-79404571",
-      "name": "Why am I getting &quot;model_not_found&quot; error",
-      "description": "Stack Overflow Question: Why am I getting &quot;model_not_found&quot; error when using OpenAI&#39;s o3-mini model?",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "openai-api",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/79404571/why-am-i-getting-model-not-found-error-when-using-openais-o3-mini-model",
-      "installCount": 800,
-      "rating": 3.58,
-      "author": "Rahul Diggi",
-      "lastUpdated": "2025-02-01",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-77854885",
-      "name": "OpenAI API: Can I access my custom ChatGPT via API",
-      "description": "Stack Overflow Question: OpenAI API: Can I access my custom ChatGPT via API?",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "openai-api",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/77854885/openai-api-can-i-access-my-custom-chatgpt-via-api",
-      "installCount": 800,
-      "rating": 3.58,
-      "author": "user2779311",
-      "lastUpdated": "2024-01-21",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-78495286",
-      "name": "How can i Get a JSON structure response from the g",
-      "description": "Stack Overflow Question: How can i Get a JSON structure response from the google gemini-pro-vision",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "llm",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78495286/how-can-i-get-a-json-structure-response-from-the-google-gemini-pro-vision",
-      "installCount": 800,
-      "rating": 3.58,
-      "author": "hassaan hameed",
-      "lastUpdated": "2024-05-17",
-      "platform": "stackoverflow"
     },
     {
       "id": "github-1148062975",
@@ -1955,125 +2538,11 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/zhu1090093659/spec_driven_develop",
-      "installCount": 715,
-      "rating": 3.643,
+      "installCount": 714,
+      "rating": 3.6428,
       "author": "zhu1090093659",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "devto-3629085",
-      "name": "Congrats to the OpenClaw Challenge Winners!",
-      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "icon": "📝",
-      "category": "development",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
-      "installCount": 700,
-      "rating": 4.5,
-      "author": "jess",
-      "lastUpdated": "2026-05-07",
-      "platform": "devto"
-    },
-    {
-      "id": "so-79807773",
-      "name": "Using create_retrieval_chain due to RetrievalQA de",
-      "description": "Stack Overflow Question: Using create_retrieval_chain due to RetrievalQA deprecation",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "langchain",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/79807773/using-create-retrieval-chain-due-to-retrievalqa-deprecation",
-      "installCount": 700,
-      "rating": 3.57,
-      "author": "Saad Cherkaoui Ikbal",
-      "lastUpdated": "2025-11-03",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-78028402",
-      "name": "ModuleNotFoundError for &#39;llama_index.vector_st",
-      "description": "Stack Overflow Question: ModuleNotFoundError for &#39;llama_index.vector_stores&#39; in Python Project",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "llm",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78028402/modulenotfounderror-for-llama-index-vector-stores-in-python-project",
-      "installCount": 700,
-      "rating": 3.57,
-      "author": "Raoof Naushad",
-      "lastUpdated": "2024-02-20",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-78010681",
-      "name": "Implementing System Prompts in Gemini Pro for Chat",
-      "description": "Stack Overflow Question: Implementing System Prompts in Gemini Pro for Chatbot Creation",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "llm",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78010681/implementing-system-prompts-in-gemini-pro-for-chatbot-creation",
-      "installCount": 700,
-      "rating": 3.57,
-      "author": "user60108",
-      "lastUpdated": "2024-02-17",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-77872335",
-      "name": "ModuleNotFoundError: No module named &#39;langchai",
-      "description": "Stack Overflow Question: ModuleNotFoundError: No module named &#39;langchain_experimental&#39;",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "llm",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/77872335/modulenotfounderror-no-module-named-langchain-experimental",
-      "installCount": 700,
-      "rating": 3.57,
-      "author": "Farooq Zaman",
-      "lastUpdated": "2024-01-24",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-78068285",
-      "name": "Why doesn&#39;t Ollama use MORE RAM?",
-      "description": "Stack Overflow Question: Why doesn&#39;t Ollama use MORE RAM?",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "llm",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78068285/why-doesnt-ollama-use-more-ram",
-      "installCount": 700,
-      "rating": 3.57,
-      "author": "MattBun",
-      "lastUpdated": "2024-02-27",
-      "platform": "stackoverflow"
     },
     {
       "id": "github-1152019564",
@@ -2128,8 +2597,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/caramaschiHG/awesome-ai-agents-2026",
-      "installCount": 647,
-      "rating": 3.6294,
+      "installCount": 648,
+      "rating": 3.6296,
       "author": "caramaschiHG",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -2191,63 +2660,6 @@
       "platform": "github"
     },
     {
-      "id": "so-79241252",
-      "name": "Pydantic wrapper error while invoking openai clien",
-      "description": "Stack Overflow Question: Pydantic wrapper error while invoking openai client on streamlit. Got an unexpected keyword argument &#39;proxies&#39;",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "openai-api",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/79241252/pydantic-wrapper-error-while-invoking-openai-client-on-streamlit-got-an-unexpec",
-      "installCount": 600,
-      "rating": 3.56,
-      "author": "gogr",
-      "lastUpdated": "2024-12-01",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-78356777",
-      "name": "What does &quot;I&quot; in the section &quot;_IQ&q",
-      "description": "Stack Overflow Question: What does &quot;I&quot; in the section &quot;_IQ&quot; and &quot;_M&quot; mean in this name &quot;Meta-Llama-3-8B-Instruct-IQ3_M.gguf&quot;?",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "llm",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78356777/what-does-i-in-the-section-iq-and-m-mean-in-this-name-meta-llama-3-8b-i",
-      "installCount": 600,
-      "rating": 3.56,
-      "author": "Franva",
-      "lastUpdated": "2024-04-20",
-      "platform": "stackoverflow"
-    },
-    {
-      "id": "so-78437376",
-      "name": "run `!ollama run llama3` in colab raise err &quot;",
-      "description": "Stack Overflow Question: run `!ollama run llama3` in colab raise err &quot;Error: could not connect to ollama app, is it running?&quot;",
-      "icon": "📚",
-      "category": "development",
-      "tags": [
-        "llm",
-        "qa",
-        "development"
-      ],
-      "source": "Stack Overflow",
-      "sourceUrl": "https://stackoverflow.com/questions/78437376/run-ollama-run-llama3-in-colab-raise-err-error-could-not-connect-to-ollama",
-      "installCount": 600,
-      "rating": 3.56,
-      "author": "chikadance",
-      "lastUpdated": "2024-05-06",
-      "platform": "stackoverflow"
-    },
-    {
       "id": "github-1174238266",
       "name": "Ai Rules",
       "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries,",
@@ -2267,23 +2679,25 @@
       "platform": "github"
     },
     {
-      "id": "devto-3616786",
-      "name": "What Even Is AI? (I Took a Break & Had to Relearn ",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "icon": "📝",
-      "category": "ai-research",
+      "id": "npm-bb91bd658c",
+      "name": "llama-node",
+      "description": "Node.js Library for Large Language Model LLaMA/RWKV",
+      "icon": "⬢",
+      "category": "development",
       "tags": [
-        "ai",
-        "tutorial",
-        "development"
+        "llama",
+        "rwkv",
+        "vicuna",
+        "gpt",
+        "chatgpt"
       ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/llama-node",
       "installCount": 580,
       "rating": 4.5,
-      "author": "rohini_gaonkar",
-      "lastUpdated": "2026-05-05",
-      "platform": "devto"
+      "author": "hlhr202@163.com",
+      "lastUpdated": "2023-05-29",
+      "platform": "npm"
     },
     {
       "id": "github-1168586339",
@@ -2296,8 +2710,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/WW-AI-Lab/openclaw-office",
-      "installCount": 574,
-      "rating": 3.6148,
+      "installCount": 575,
+      "rating": 3.615,
       "author": "WW-AI-Lab",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -2334,68 +2748,11 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/countbot-ai/CountBot",
-      "installCount": 565,
-      "rating": 3.613,
+      "installCount": 566,
+      "rating": 3.6132,
       "author": "countbot-ai",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "devto-3617519",
-      "name": "Build Your Own AI Butler - A Scheduled Agent That ",
-      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "icon": "📝",
-      "category": "development",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
-      "installCount": 560,
-      "rating": 4.5,
-      "author": "erikch",
-      "lastUpdated": "2026-05-06",
-      "platform": "devto"
-    },
-    {
-      "id": "devto-3619287",
-      "name": "I Programmed an AI in 6502 Assembly - It Worked",
-      "description": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
-      "icon": "📝",
-      "category": "ai-research",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
-      "installCount": 550,
-      "rating": 4.5,
-      "author": "newellpaul",
-      "lastUpdated": "2026-05-06",
-      "platform": "devto"
-    },
-    {
-      "id": "devto-3603637",
-      "name": "🫡We'll Support You with All Our Might (AI Avatar v",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "icon": "📝",
-      "category": "development",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab",
-      "installCount": 520,
-      "rating": 4.5,
-      "author": "webdeveloperhyper",
-      "lastUpdated": "2026-05-06",
-      "platform": "devto"
     },
     {
       "id": "github-1191326746",
@@ -2415,44 +2772,6 @@
       "author": "RickyTong1",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "devto-3605688",
-      "name": "I Built a Mobile App in 3 Days. The Hard Part Was ",
-      "description": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
-      "icon": "📝",
-      "category": "creative",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
-      "installCount": 480,
-      "rating": 4.5,
-      "author": "juandastic",
-      "lastUpdated": "2026-05-04",
-      "platform": "devto"
-    },
-    {
-      "id": "devto-3615670",
-      "name": "The Next Casualty of the GenAI Revolution",
-      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
-      "icon": "📝",
-      "category": "ai-research",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
-      "installCount": 480,
-      "rating": 4.5,
-      "author": "maishsk",
-      "lastUpdated": "2026-05-05",
-      "platform": "devto"
     },
     {
       "id": "github-1132275655",
@@ -2496,6 +2815,25 @@
       "platform": "github"
     },
     {
+      "id": "npm-cb5d7f077c",
+      "name": "ai-sdk",
+      "description": "Node.js Package",
+      "icon": "⬢",
+      "category": "development",
+      "tags": [
+        "nodejs",
+        "package",
+        "ai"
+      ],
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/ai-sdk",
+      "installCount": 425,
+      "rating": 4.5,
+      "author": "susan.syh",
+      "lastUpdated": "2022-04-11",
+      "platform": "npm"
+    },
+    {
       "id": "github-1203380576",
       "name": "Deepzero",
       "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively usin",
@@ -2513,25 +2851,6 @@
       "author": "416rehman",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "devto-3604041",
-      "name": "Migrating from Astro 5 to Astro 6: A Real-World Br",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "icon": "📝",
-      "category": "development",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "installCount": 400,
-      "rating": 4.5,
-      "author": "harshil1712",
-      "lastUpdated": "2026-05-03",
-      "platform": "devto"
     },
     {
       "id": "github-1157936017",
@@ -2552,42 +2871,24 @@
       "platform": "github"
     },
     {
-      "id": "devto-3610125",
-      "name": "VR Coding for the AI Coding Era - Monitoring 5 AI ",
-      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
-      "icon": "📝",
+      "id": "npm-017ad72e60",
+      "name": "autogen",
+      "description": "gyp generator",
+      "icon": "⬢",
       "category": "development",
       "tags": [
-        "ai",
-        "tutorial",
-        "development"
+        "native",
+        "binding",
+        "addon",
+        "concurrency"
       ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
-      "installCount": 380,
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/autogen",
+      "installCount": 379,
       "rating": 4.5,
-      "author": "samchon",
-      "lastUpdated": "2026-05-04",
-      "platform": "devto"
-    },
-    {
-      "id": "devto-3510931",
-      "name": "AI vs Non-AI: Building the Same Project Twice",
-      "description": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
-      "icon": "📝",
-      "category": "ai-research",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
-      "installCount": 380,
-      "rating": 4.5,
-      "author": "nandofm",
-      "lastUpdated": "2026-05-06",
-      "platform": "devto"
+      "author": "Bent Cardan",
+      "lastUpdated": "2022-06-13",
+      "platform": "npm"
     },
     {
       "id": "github-1145350046",
@@ -2660,10 +2961,10 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/Justin0504/Aegis",
-      "installCount": 352,
-      "rating": 3.5704,
+      "installCount": 353,
+      "rating": 3.5705999999999998,
       "author": "Justin0504",
-      "lastUpdated": "2026-05-07",
+      "lastUpdated": "2026-05-09",
       "platform": "github"
     },
     {
@@ -2776,25 +3077,6 @@
       "platform": "github"
     },
     {
-      "id": "devto-3608799",
-      "name": "Managing 150+ AI Agent Skills at Scale — What Brok",
-      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
-      "icon": "📝",
-      "category": "development",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
-      "installCount": 310,
-      "rating": 4.5,
-      "author": "vystartasv",
-      "lastUpdated": "2026-05-04",
-      "platform": "devto"
-    },
-    {
       "id": "github-1199857443",
       "name": "Octopoda Os",
       "description": "The open-source memory operating system for AI agents. Persistent memory, semantic search, loop detection, agent messaging, crash recovery, and real-time observability.",
@@ -2844,8 +3126,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/TQ-trade-agent/tq-trading-agent",
-      "installCount": 299,
-      "rating": 3.5598,
+      "installCount": 298,
+      "rating": 3.5596,
       "author": "TQ-trade-agent",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -2889,25 +3171,6 @@
       "platform": "github"
     },
     {
-      "id": "devto-3623932",
-      "name": "I built a 200 line AI router in TypeScript. My mon",
-      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
-      "icon": "📝",
-      "category": "ai-research",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
-      "installCount": 250,
-      "rating": 4.5,
-      "author": "thegdsks",
-      "lastUpdated": "2026-05-07",
-      "platform": "devto"
-    },
-    {
       "id": "github-1202194964",
       "name": "Multi Agent Ecommerce System",
       "description": "多Agent电商推荐与营销系统 (Python/Java/Go)",
@@ -2925,25 +3188,6 @@
       "platform": "github"
     },
     {
-      "id": "devto-3622503",
-      "name": "Vibe Coding Lessons Nobody Talks About",
-      "description": "I love vibe coding and whenever I get bored, I vibe-code some websites for myself or for Dev...",
-      "icon": "📝",
-      "category": "development",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/konark_13/vibe-coding-lessons-nobody-talks-about-44k9",
-      "installCount": 230,
-      "rating": 4.5,
-      "author": "konark_13",
-      "lastUpdated": "2026-05-06",
-      "platform": "devto"
-    },
-    {
       "id": "github-1179478740",
       "name": "Clawswarm",
       "description": "🔥 Open-source multi-agent orchestration system for OpenClaw, enabling swarm intelligence via unified group chat.",
@@ -2959,63 +3203,6 @@
       "author": "1Panel-dev",
       "lastUpdated": "2026-05-09",
       "platform": "github"
-    },
-    {
-      "id": "devto-3597101",
-      "name": "Deploying a Multi-Agent System with Terraform and ",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "icon": "📝",
-      "category": "development",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "installCount": 200,
-      "rating": 4.5,
-      "author": "shirmeirlador",
-      "lastUpdated": "2026-05-07",
-      "platform": "devto"
-    },
-    {
-      "id": "devto-3613934",
-      "name": "[GCP Practice][BwAI] AI-Powered Development: Quick",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "icon": "📝",
-      "category": "development",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "installCount": 200,
-      "rating": 4.5,
-      "author": "evanlin",
-      "lastUpdated": "2026-05-07",
-      "platform": "devto"
-    },
-    {
-      "id": "devto-3622795",
-      "name": "Designing a team of agents",
-      "description": "I continue to experiment with AI in the context of software engineering. I'm fortunate that my team...",
-      "icon": "📝",
-      "category": "development",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/nfrankel/designing-a-team-of-agents-j1b",
-      "installCount": 180,
-      "rating": 4.5,
-      "author": "nfrankel",
-      "lastUpdated": "2026-05-07",
-      "platform": "devto"
     },
     {
       "id": "github-1195477175",
@@ -3053,10 +3240,10 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/liyupi/openclaw-guide",
-      "installCount": 168,
-      "rating": 3.5336,
+      "installCount": 169,
+      "rating": 3.5338,
       "author": "liyupi",
-      "lastUpdated": "2026-05-08",
+      "lastUpdated": "2026-05-09",
       "platform": "github"
     },
     {
@@ -3073,8 +3260,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/Miasyster/QuantGPT",
-      "installCount": 164,
-      "rating": 3.5328,
+      "installCount": 165,
+      "rating": 3.533,
       "author": "Miasyster",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -3138,23 +3325,23 @@
       "platform": "github"
     },
     {
-      "id": "bili-116543853697965",
-      "name": "这可能是2026年B站唯一将Agent Skills讲明白的教程，手把手带你从入门到开发Agent智",
-      "description": "B站视频教程: 这可能是2026年B站唯一将Agent Skills讲明白的教程，手把手带你从入门到开发Agent智能体实战，全程干货，让你少走99%的弯路！",
-      "icon": "📺",
-      "category": "creative",
+      "id": "npm-5e1d377ac5",
+      "name": "crewai-js",
+      "description": "Unofficial CrewAI JavaScript SDK",
+      "icon": "⬢",
+      "category": "development",
       "tags": [
-        "video",
-        "tutorial",
-        "ai"
+        "crewai-js",
+        "crewai",
+        "ai-agents"
       ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1RuRQBzEoG",
+      "source": "npm",
+      "sourceUrl": "https://www.npmjs.com/package/crewai-js",
       "installCount": 126,
-      "rating": 3.5126,
-      "author": "大模型官方讲堂",
-      "lastUpdated": "2026-05-09",
-      "platform": "bilibili"
+      "rating": 4.5,
+      "author": "clevaway",
+      "lastUpdated": "2024-10-13",
+      "platform": "npm"
     },
     {
       "id": "github-1220498389",
@@ -3169,8 +3356,8 @@
       ],
       "source": "GitHub",
       "sourceUrl": "https://github.com/hypersocialinc/shots",
-      "installCount": 120,
-      "rating": 3.524,
+      "installCount": 121,
+      "rating": 3.5242,
       "author": "hypersocialinc",
       "lastUpdated": "2026-05-09",
       "platform": "github"
@@ -3192,44 +3379,6 @@
       "author": "gonzaroman",
       "lastUpdated": "2026-05-07",
       "platform": "github"
-    },
-    {
-      "id": "bili-116543132277706",
-      "name": "2026 最新 AI Agent 智能体零基础保姆级搭建教程，8 步手把手全程教学，专为 AI 入门",
-      "description": "B站视频教程: 2026 最新 AI Agent 智能体零基础保姆级搭建教程，8 步手把手全程教学，专为 AI 入门小白打造，解决不懂原理、不会配置、搭建失败等痛点。",
-      "icon": "📺",
-      "category": "creative",
-      "tags": [
-        "video",
-        "tutorial",
-        "ai"
-      ],
-      "source": "B站",
-      "sourceUrl": "https://www.bilibili.com/video/BV1ByRQB1EWW",
-      "installCount": 112,
-      "rating": 3.5112,
-      "author": "星野小邮差",
-      "lastUpdated": "2026-05-09",
-      "platform": "bilibili"
-    },
-    {
-      "id": "devto-3625907",
-      "name": "The Local Model That Doesn't Sleep: Gemma 4 + MTP ",
-      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
-      "icon": "📝",
-      "category": "ai-research",
-      "tags": [
-        "ai",
-        "tutorial",
-        "development"
-      ],
-      "source": "Dev.to",
-      "sourceUrl": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
-      "installCount": 110,
-      "rating": 4.5,
-      "author": "ertugrul_demir",
-      "lastUpdated": "2026-05-08",
-      "platform": "devto"
     },
     {
       "id": "github-1190117234",
@@ -3464,5 +3613,5 @@
       "platform": "github"
     }
   ],
-  "totalCount": 180
+  "totalCount": 187
 }

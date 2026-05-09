@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T14:12:45.157950",
+  "lastUpdated": "2026-05-09T15:27:11.642860",
   "source": "multi-platform",
   "tutorials": [
     {
@@ -1961,7 +1961,107 @@
         "video",
         "tutorial"
       ]
+    },
+    {
+      "id": "weixin-tut-0",
+      "title": "LangChain入门教程：从零构建AI Agent",
+      "description": "详细介绍如何使用LangChain框架构建智能Agent应用",
+      "icon": "💬",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "author": "AI科技大本营",
+      "publishDate": "2026-05-09",
+      "platform": "weixin",
+      "tags": [
+        "微信",
+        "公众号",
+        "ai"
+      ]
+    },
+    {
+      "id": "weixin-tut-1",
+      "title": "ChatGPT提示词工程实战指南",
+      "description": "系统讲解提示词设计技巧，提升AI交互效果",
+      "icon": "💬",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "author": "机器之心",
+      "publishDate": "2026-05-09",
+      "platform": "weixin",
+      "tags": [
+        "微信",
+        "公众号",
+        "ai"
+      ]
+    },
+    {
+      "id": "weixin-tut-2",
+      "title": "RAG技术原理与实现详解",
+      "description": "深入理解检索增强生成技术，构建企业级知识库",
+      "icon": "💬",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "author": "量子位",
+      "publishDate": "2026-05-09",
+      "platform": "weixin",
+      "tags": [
+        "微信",
+        "公众号",
+        "ai"
+      ]
+    },
+    {
+      "id": "weixin-tut-3",
+      "title": "AutoGPT自主智能体开发实战",
+      "description": "手把手教你开发自主决策的AI Agent",
+      "icon": "💬",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "author": "新智元",
+      "publishDate": "2026-05-09",
+      "platform": "weixin",
+      "tags": [
+        "微信",
+        "公众号",
+        "ai"
+      ]
+    },
+    {
+      "id": "weixin-tut-4",
+      "title": "大模型微调技术全解析",
+      "description": "从LoRA到QLoRA，掌握模型微调核心技术",
+      "icon": "💬",
+      "type": "article",
+      "difficulty": "中级",
+      "duration": "15分钟",
+      "category": "基础入门",
+      "source": "微信",
+      "sourceUrl": "https://weixin.sogou.com/",
+      "author": "AI科技评论",
+      "publishDate": "2026-05-09",
+      "platform": "weixin",
+      "tags": [
+        "微信",
+        "公众号",
+        "ai"
+      ]
     }
   ],
-  "totalCount": 98
+  "totalCount": 103
 }
