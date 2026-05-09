@@ -1,0 +1,2 @@
+# No external dependencies required
+# All API calls use Python standard library (urllib)
